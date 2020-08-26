@@ -1,0 +1,130 @@
+@charset "utf-8";
+
+$spacing-unit:     30px !default;
+
+$text-color:       #000 !default;
+$text-color-secondary: lighten($text-color, 10%) !default;
+$text-color-tertiary:  lighten($text-color, 33%) !default;
+$background-color: $text-color !default;
+
+$grey-color:       #808080 !default;
+$grey-color-secondary: darken($grey-color, 10%) !default;
+$grey-color-tertiary:  darken($grey-color, 33%) !default;
+
+$white-color: #fff !default;
+$white-color-secondary: darken($white-color, 10%) !default;
+$white-color-tertiary:  darken($white-color, 33%) !default;
+
+$green-color:       #8AF558 !default;
+$green-color-secondary: desaturate($green-color, 10%) !default;
+$green-color-tertiary:  #59AB4E !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Define defaults for each variable.
+$base-font-family: Arial, sans-serif !default;
+// $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-weight: 600 !default;
+$base-font-size:   16px !default;
+$base-line-height: 1.5 !default;
+
+$futura-font-family: 'Futura';
+$futura-font-weight: 800 !default;
+$futura-font-size:   $base-font-size;
+$futura-line-height: 1.33 !default;
+
+$small-font-size:  $base-font-size * 0.875 !default;
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+	@media screen and (max-width: $device) {
+	  @content;
+	}
+ }
+ 
+@mixin relative-font-size($ratio) {
+	font-size: $base-font-size * $ratio;
+}
+
+@mixin iih($ratio) {
+	font-size: $futura-font-size * $ratio;
+	line-height: $futura-line-height;
+
+	span {
+		padding: #{$futura-font-size/10*$ratio} #{$futura-font-size/6*$ratio};
+		margin: #{$futura-font-size/5*$ratio} 0;
+	}
+}
+
+// Import partials.
+@import
+	"minima/base",
+	"minima/layout"
+;
+
+.swiper-container {
+	height: 600px;
+	.swiper-wrapper {
+		.swiper-slide {
+			background-size: cover;
+			background-position: center;
+
+			video {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				min-width: 100%;
+				min-height: 100%;
+				width: auto;
+				height: auto;
+			}
+		}
+	}
+	.swiper-button-prev,
+	.swiper-button-next {
+		color: $grey-color;
+	}
+	.swiper-button-prev,
+	.swiper-button-next,
+	.swiper-pagination-bullet {
+		// opacity: .2;
+	}
+	.swiper-pagination-bullet-active{
+		// background-color: $green-color;
+		background-color: $white-color;
+		opacity: 1;
+
+	}
+}
+
+strong span,
+.iih span {
+	display: inline-block;
+	
+	font-family: $futura-font-family;
+	font-weight: $futura-font-weight;
+	text-transform: uppercase;
+
+	background: $white-color;
+	color: $text-color;
+}
+#introduction strong span,
+#introduction .iih span {
+	background: $text-color;
+	color: $white-color;
+}
+

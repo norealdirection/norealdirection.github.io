@@ -3,7 +3,7 @@ layout: post
 title:  "Kanttekeningen bij Make It Happen."
 date:   2020-04-03 16:11:59 +0200
 categories: home blog
-image: images/blog/mih-tote.jpg
+image: images/posts/mih-tote.jpg
 tags: 
   - Marketing
 ---

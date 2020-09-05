@@ -11,17 +11,6 @@ tags:
 
 Rotterdam staat populair bekend als de stad die nooit af is, de stad van niet lullen maar poetsen, een werkstad met een can-do mentaliteit. Amsterdam heeft het, Rotterdam maakt het. **ROTTERDAM. MAKE IT HAPPEN.** bouwt slim door op deze reputatie, die samengevat kan worden als het verhaal van de dynamische stad. 'Rotterdam is een jonge, dynamische wereldstad die zichzelf in hoog tempo blijft vernieuwen', leest de bezoeker op de website van Rotterdam Partners, de partij die de marketingcampagne aanstuurt. Iedere moderne stad is per definitie dynamisch, maar zelden worden steden bewust zo gepositioneerd. Ook Rotterdam wordt vaak eerder gerepresenteerd door het verhaal van de wereldstad of de wereldhaven. Stad en haven communiceren duidelijke en herkenbare beelden. Maar wat moeten we ons voorstellen bij dynamiek? Men ziet dat het dynamische stad verhaal pas opduikt in tijden van grote maatschappelijke veranderingen. Men zag dit bij de expansie van de haven in de eerste helft van de 20e eeuw, bij het wederopbouwproject na het bombardement van 1940 en bij de overstap naar een post-industriële economie eind jaren '80. Het is een terugkerend fenomeen in Rotterdam dat het verhaal van de dynamische stad wordt misbruikt om grootschalige stedelijke transformaties te legitimeren. Met haar nieuwe slogan heeft Rotterdam het verhaal van de dynamische stad omarmt om het ten volste in te zetten in haar transformatie—in fysiek én sociaal opzicht. Dat nu met deze slogan dit verhaal expliciet gemaakt wordt lijkt alles te maken te hebben met een groeiende precairiteit.
 
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

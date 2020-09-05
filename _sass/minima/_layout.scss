@@ -150,7 +150,7 @@
 */
 #introduction {
 	background-color: $green-color-tertiary;
-
+	color: $text-color;
 	strong, .iih {
 		@include	iih(1)
 	}

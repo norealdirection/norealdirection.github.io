@@ -18,7 +18,7 @@ div, header, nav, article, section, footer {
  */
 body {
 	font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-	color: $black-color;
+	color: $text-color;
 	background-color: $background-color;
 	-webkit-text-size-adjust: 100%;
 	-webkit-font-feature-settings: "kern" 1;

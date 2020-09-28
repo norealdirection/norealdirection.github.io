@@ -48,11 +48,13 @@ for (let i = 0; i < iih.length; i++) {
 	element.innerHTML = wrapWords( element.innerText );
 }
 
-
+/*
 // carousel/slideshow
+
+*/
 var mySwiper = new Swiper('.swiper-container', {
 	autoplay: {
-		delay: 5000,
+		delay: 10000,
 		disableOnInteraction: true,
 	},
 

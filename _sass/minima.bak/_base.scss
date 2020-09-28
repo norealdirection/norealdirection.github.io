@@ -128,16 +128,18 @@ a {
 /**
  * Blockquotes
  */
-blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
+ blockquote, blockquote p {
+	color: $white-color-tertiary;
+	border-left: 1.125*2px solid $white-color-tertiary;
+	padding-left: $spacing-unit / 2;
+	@include relative-font-size(1.125);
+//	 letter-spacing: -1px;
 
-  > :last-child {
-    margin-bottom: 0;
+	font-family: $base-font-family;
+	// font-style: italic;
+
+	> :last-child {
+		margin-bottom: 0;
   }
 }
 

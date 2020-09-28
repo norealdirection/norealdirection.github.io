@@ -7,7 +7,10 @@
 		// min-height: $spacing-unit	*	1.865;
 
 		//	Positioning	context for the mobile navigation icon
-		position: sticky;
+		// position: sticky;
+		position: fixed;
+		width: 100%;
+
 		top: 0;
 		z-index: 30;
 
@@ -22,7 +25,6 @@
 [data-scrolldir="down"] .site-header {
 }
 
-
 .site-title {
 	display: inline-block;
 	position: relative;
@@ -30,11 +32,16 @@
 
 	@include iih(1.5);
 
+	img.svg-logo {
+		height: 36px; // height of nav <label>
+	}
+
 }
+
 
 .site-nav {
 	position: absolute;
-	top: $spacing-unit;
+	top: $spacing-unit*.75;
 	right: $spacing-unit/2;
 
 	// float: right;
@@ -65,8 +72,8 @@
 
 	@include	media-query($on-palm) {
 		position: absolute;
-		top: $spacing-unit*.75;
-		right: $spacing-unit;
+		top: $spacing-unit/2;
+		right: $spacing-unit/2;
 		// border: 1px	solid	$grey-color-secondary;
 		// border-radius: 5px;
 		text-align: center;
@@ -84,7 +91,6 @@
 
 		.menu-icon {
 				display: block;
-				position: fixed;
 				// float: right;
 				width: 36px;
 				height: 26px;
@@ -97,12 +103,18 @@
 				}
 		}
 
-		input	~ .trigger {
-			clear: both;
-			display: none;
+		input	~ .trigger { // interaction here
+			// display: none; //
+			opacity: 0;
+			pointer-events: none;
 		}
 
 		input:checked ~ .trigger {
+			opacity: 1;
+			transition: .2s opacity;
+			pointer-events: initial;
+
+			// interaction here -^
 			display: block;
 			position: fixed;
 
@@ -151,10 +163,17 @@
 */
 #introduction {
 	background-color: $green-color-tertiary;
-	color: $text-color;
+
+	padding: $spacing-unit 0 $spacing-unit;
+
+	.intro { text-align: center; };
+	.content { /* nothing here*/ };
+
 	strong, .iih {
 		@include	iih(1)
 	}
+
+	/* START <summary>/<details> version 
 	summary{
 		padding: $spacing-unit 0 $spacing-unit/2;
 		
@@ -166,9 +185,9 @@
 		padding: $spacing-unit 0;
 	}
 	summary:after { // arrow
-		left: 50%;
-		transform: translateX(-50%);
 		content: '';
+
+		position: relative;
 
 		width: 0px;
 		height: 0px;
@@ -177,6 +196,16 @@
 		border-right: 6px solid transparent;
 		border-top: 6px solid $white-color;
 		border-bottom: 6px solid transparent;
+		
+		@keyframes bounce {
+			0% { top: 0; }
+			37% { top: 6px; }
+			75% { top: 0; }
+		}
+
+		animation-name: bounce;
+		animation-duration: 2s; 
+		animation-iteration-count: infinite;
 	}
 	details[open] > summary:after {
 		border-top: 6px solid transparent;
@@ -190,6 +219,9 @@
 	summary::-webkit-details-marker{
 		display: none;
 	}
+	
+	end <summary>/<details> version */
+
 }
 
 /**
@@ -280,6 +312,7 @@ a.post-link {
 			color: $white-color-secondary;
 		}
 	}
+
 }
 @include	media-query($on-palm) {
 	section.post {
@@ -319,6 +352,11 @@ a.post-link {
 	background-color: $text-color-secondary;
 	// border-top: 1px solid $grey-color-secondary;
 	padding: $spacing-unit 0;
+
+	img.svg-logo {
+		height: 24px;
+		margin-bottom: $spacing-unit/4;
+	}
 }
 
 .footer-heading {
@@ -488,7 +526,7 @@ a.post-link {
 .post-content {
 	margin-bottom: $spacing-unit;
 
-	p:first-child{
+	> p:first-child{
 		font: $futura-font-weight #{$futura-font-size}/#{$futura-line-height} $futura-font-family;
 		text-transform: uppercase;
 	}

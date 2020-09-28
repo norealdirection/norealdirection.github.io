@@ -5,7 +5,7 @@
 layout: home
 title: Home
 order: 0
-subtitle: >-
+subtitle: |
   **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.**
 ---
 Dit zijn de **MAKE IT HAPPEN** jaren. De tijd waarin de stad de plannen voor een Nieuw Rotterdam met succes realiseert. Onder dit vastberaden motto zien we vandaag de transformatie van Rotterdam gebeuren—in fysiek én sociaal opzicht. De ambitie is duidelijk: Rotterdam moet vóóruit! Maar waarheen? Waarom? Met wie? Wat de stad zegt is niet altijd wat de stad doet. Wat er gebeurt is niet altijd wat er zou moeten gebeuren. En soms gebeuren er dingen die zich helemaal niet laten maken. Zelfs Rotterdam kan namelijk niet altijd de werkelijkheid naar haar hand zetten. Achter haar slogan schuilt ongetwijfeld de wanhoop dat er verder niets meer zal gebeuren.

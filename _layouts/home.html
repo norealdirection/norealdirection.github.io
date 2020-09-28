@@ -9,12 +9,14 @@ title: Home
 
 	<section id="introduction">
 		<div class="wrapper">
-			<details id="manifesto">
-				<summary>
-					{{ page.subtitle | markdownify }}
-				</summary>
-					{{ content }}
-			</details>
+			<div id="manifesto">
+			<!-- <details id="manifesto"> -->
+				<!-- <summary> -->
+					<div class="intro">{{ page.subtitle | markdownify }}</div>
+				<!-- </summary> -->
+					<div class="content">{{ content }}</div>
+			<!-- </details> -->
+			</div>
 		</div>
 	</section>
 

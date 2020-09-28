@@ -129,6 +129,10 @@ h1, h2, h3, h4, h5, h6 {
 		color: $white-color-tertiary;
 		text-decoration: none;
 	}
+
+	&:hover {
+		color: $white-color;
+	}
 }
 .post-content a {
 	color: $green-color;
@@ -136,6 +140,9 @@ h1, h2, h3, h4, h5, h6 {
 
 	&:visited {
 		color: $green-color-tertiary
+	}
+	&:hover {
+		color: $green-color;
 	}
 }
 
@@ -155,6 +162,9 @@ h1, h2, h3, h4, h5, h6 {
 		color: $white-color-tertiary;
 		text-decoration: none;
 	}
+	&:hover {
+		color: $white-color;
+	}
 }
 
 
@@ -162,15 +172,46 @@ h1, h2, h3, h4, h5, h6 {
  * Blockquotes
  */
 blockquote {
-	color: $grey-color;
-	border-left: 4px solid $grey-color-secondary;
+	border-left: 1.125*2px solid $white-color;
 	padding-left: $spacing-unit / 2;
+
+}
+blockquote p {
+	color: $white-color;
 	@include relative-font-size(1.125);
-	letter-spacing: -1px;
-	font-style: italic;
+
+	font: $futura-font-weight #{$futura-font-size}/#{$futura-line-height} $futura-font-family;
+	text-transform: uppercase;
 
 	> :last-child {
 		margin-bottom: 0;
+	}
+}
+
+
+/**
+ * Endnotes/Footnotes
+ */
+sup[role='doc-noteref'] {
+	a {
+		text-decoration: none;// remove underline
+		// already styled nicely
+	}
+}
+div.footnotes {
+	margin: $spacing-unit/5*3 0;
+	padding: $spacing-unit/5*2 0;
+	border-top: 1.125*2px solid $white-color-tertiary;
+	color: $white-color-tertiary;
+
+	ol {
+		// margin-left: 0; // no. falls outside margin, list aligns flush-left
+	}
+
+	ol li p,
+	p {
+		font: $base-font-weight #{$small-font-size}/#{$base-line-height} $base-font-family;
+		// text-transform: ;
 	}
 }
 

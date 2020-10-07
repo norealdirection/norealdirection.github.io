@@ -41,7 +41,10 @@ for (let i = 0; i < iih.length; i++) {
 }
 
 // all strong tags
-iih = document.getElementsByTagName('strong');
+// iih = document.getElementsByTagName('strong'); 
+
+
+iih = document.querySelectorAll('.intro strong');
 
 for (let i = 0; i < iih.length; i++) {
 	var element = iih[i];

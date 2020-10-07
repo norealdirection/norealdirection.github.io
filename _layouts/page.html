@@ -1,10 +1,16 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="post" style="
+	{%- if page.backgroundcolor -%}
+		background-color:{{ page.backgroundcolor }};
+	{%- endif -%}
+	{%- if page.textcolor -%}
+		color:{{ page.textcolor }};
+	{%- endif -%}
+	">
 
 	<header class="post-header">
-
 		{%- if page.image -%}
 			<div class="post-hero" style="background-image:url('{{ page.image | relative_url }}');">
 		{%- else -%}

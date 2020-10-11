@@ -5,7 +5,7 @@ subtitle: "Een apparaat van de Rotterdamse stadsmarketing"
 author:
 date:
 categories: home blog
-image: images/depot-01.jpg
+image: images/posts/depot-01.jpg
 image-credits:
 tags: 
  - Architectuur 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Wereldhavendagen 2020"
+title: "Het Collectiegebouw"
 subtitle: "Een apparaat van de Rotterdamse stadsmarketing"
-author: Jane Doe
-date: 2020-08-06 16:11:59 +0200
+author:
+date:
 categories: home blog
-image: images/image-02.png
-image-credits: Jane Doe
+image: images/depot-01.jpg
+image-credits:
 tags: 
- - Happening 
+ - Architectuur 
  - Stadsmarketing
 
 ---

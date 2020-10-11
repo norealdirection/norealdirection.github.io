@@ -3,7 +3,7 @@ layout: page
 title: Branding Toolkit
 permalink: /branding-toolkit/
 order: 1
-image: images/sticker.png
+image: images/pages/sticker.png
 ---
 
 This is the **IS IT HAPPENING?** branding toolkit.

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/2019/08/06/about-us.html</loc>
+<lastmod>2019-08-06T16:11:59+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/home/blog/2020/04/03/heatwave.html</loc>
+<lastmod>2020-04-03T16:11:59+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/home/blog/2020/08/06/wereldhavendagen.html</loc>
+<lastmod>2020-08-06T16:11:59+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/home/blog/2020/08/06/typographic-style.html</loc>
+<lastmod>2020-08-06T16:11:59+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/branding-toolkit/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>

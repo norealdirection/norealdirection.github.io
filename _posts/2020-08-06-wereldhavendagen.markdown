@@ -2,8 +2,6 @@
 layout: post
 title: "Het Collectiegebouw"
 subtitle: "Een apparaat van de Rotterdamse stadsmarketing"
-author:
-date:
 categories: home blog
 image: images/posts/depot-01.jpg
 image-credits:

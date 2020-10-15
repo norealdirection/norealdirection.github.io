@@ -5,6 +5,7 @@ permalink: /about/
 order: 10
 backgroundcolor: '#59AB4E'
 textcolor: '#000000'
+titletextcolor: '#000000'
 ---
 
 **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.**

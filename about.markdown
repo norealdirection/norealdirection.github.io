@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 order: 10
-backgroundcolor: '#8AF558'
+backgroundcolor: '#59AB4E'
 textcolor: '#000000'
 ---
 

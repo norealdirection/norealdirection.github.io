@@ -518,7 +518,8 @@ a.post-link {
 	// layout
 	position: absolute;
 	bottom: 10%;
-	left: 0;
+	/**left: 0;**/
+	text-align: center;
 	margin: $spacing-unit $spacing-unit/2;
 
 	// typography

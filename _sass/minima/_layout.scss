@@ -519,8 +519,7 @@ a.post-link {
 	position: absolute;
 	bottom: 10%;
 	/**left: 0;**/
-	text-align: center;
-	/*margin: $spacing-unit $spacing-unit/2;*/
+	margin: 0; /*$spacing-unit $spacing-unit/2;*/
 
 	// typography
 	font: $futura-font-weight #{$futura-font-size}/#{$futura-line-height} $futura-font-family;

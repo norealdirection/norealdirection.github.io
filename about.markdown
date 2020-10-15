@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 order: 10
-backgroundcolor: '#ff0'
-textcolor: '#ff0000'
+backgroundcolor: '#8AF558'
+textcolor: '#000000'
 ---
 
 **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.**
@@ -17,10 +17,12 @@ De stad bevindt zich al enige tijd in een concurrentiestrijd met andere steden i
 
 Ondertussen gebeuren er minder aantrekkelijke dingen. Toenemende armoede, een groeiend tekort aan betaalbare woningen, buurten die worden gegentrificeerd als een vanzelfsprekendheid, langzittende bewoners die worden gedwongen hun buurt of stad te verlaten. En uiteraard de klimaatcrisis, dat grote vraagteken aan onze gedeelde horizon. In naam van de aantrekkelijkheid **TEST** Rotterdam voorzichtig **DE TOEKOMST** van haar binnenstad, terwijl de haven investeert in technische innovaties om het echte uitstootprobleem voorlopig onder het tapijt van de zeebodem te kunnen vegen. Heeft duurzaamheid en gezondheid alleen recht van bestaan bij gratie van gentrificatie, ‘groene groei’?
 
-City marketing speelt een cruciale rol in de ontwikkelingen. MIH. is allereerst Rotterdam’s marketingoffensief in de inter-urbane concurrentiestrijd. Het voornaamste doel is om de stad internationaal sterker op de kaart te zetten. Met haar slogan doet de stad een beroep op de Rotterdamse dadendrang. Het is de internationale, neoliberale versie van het oude ‘geen woorden maar daden’, waarmee ze slim doorbouwt op het verhaal van de dynamische werkstad. Dit credo is in het verleden vaker ingezet om grootschalige stedelijke veranderingen te versnellen en te legitimeren. Vandaag zien we onder  de transformatie van Rotterdam gebeuren—in fysiek, economisch én sociaal opzicht.
+City marketing speelt een cruciale rol in de ontwikkelingen. **MAKE IT HAPPEN.** is allereerst Rotterdam’s marketingoffensief in de inter-urbane concurrentiestrijd. Het voornaamste doel is om de stad internationaal sterker op de kaart te zetten. Met haar slogan doet de stad een beroep op de Rotterdamse dadendrang. Het is de internationale, neoliberale versie van het oude ‘geen woorden maar daden’, waarmee ze slim doorbouwt op het verhaal van de dynamische werkstad. Dit credo is in het verleden vaker ingezet om grootschalige stedelijke veranderingen te versnellen en te legitimeren. Vandaag zien we onder  de transformatie van Rotterdam gebeuren—in fysiek, economisch én sociaal opzicht.
 
 Een stadsslogan is een politiek instrument dat richting geeft aan de lokale ontwikkelingen. Politiek gaat om de kunst van het mogelijke; om het vermogen te kunnen bepalen wat er gebeurt—_what happens_. Maar in het economische spel geldt nu eenmaal de regel dat een gebeurtenis slechts dient te gebeuren wanneer de geïnvesteerde kosten terugverdiend zullen worden. En daarbij geldt ook: hoe hoger de financiële winst, hoe beter. MIH. wekt de schijn van actief burgerschap en een beloftevolle toekomst voor alle Rotterdammers, maar is zij niet vooral het bevel om te groeien? **DE WERELD LIGT HIER AAN JE VOETEN. HIER IS ALLE RUIMTE OM TE PIONIEREN. GRENZELOOS, TOMELOOS, TORENHOOG.** Achter deze woorden schuilt ongetwijfeld de wanhoop dat er niets meer zal gebeuren.
 
 De ambities van de neoliberale stad blijken vaak onverenigbaar met de oorspronkelijke sociale idealen en verplichtingen. Wat de stad zegt is niet altijd wat de stad doet. Wat er gebeurt is niet altijd wat er zou moeten gebeuren. Bovendien gebeuren er steeds vaker dingen die zich helemaal niet laten maken. De overheid bevindt zich in een ongemakkelijke positie: ze moet haar burgers beschermen en tegelijkertijd de economische krachten koesteren en ondersteunen omdat de voortgang ervan hangt. Als stadsslogan stelt **MAKE IT HAPPEN.** een samenvatting voor van de Rotterdamse collectieve identiteit. Haar uitspraak is er op gericht de stad te veranderen. Het is het verhaal van Rotterdam. Maar ondertussen wordt is er onder de oppervlakte van haar _can-do_ mentaliteit een ander stedelijk (onder)bewustzijn voelbaar; een plagende onzekerheid. Zelfs Rotterdam kan namelijk niet altijd de werkelijkheid naar haar hand zetten.
 
 **IS IT HAPPENING?** is de andere kant van de Rotterdamse marketingcampagne. Een beetje stad beschikt immers over een zeker reflexief vermogen. Reflectie vereist dat je alert bent voor nieuwe gebeurtenissen, dat je niet altijd weet wat er moet gebeuren. In het huidige veelvoud aan problemen is een voorschrift niet louter wat Rotterdam nodig heeft. Antwoorden zijn interessant in zoverre zij nieuwe vragen mogelijk maken. Het wordt tijd dat we die vragen stellen, vraagtekens zetten bij de marketing, het beleid en de cultuur van Rotterdam, om zo de onmogelijkheden en contradicties van de hedendaagse stad te aanschouwen.
+
+**ROTTERDAM. IS IT HAPPENING?**

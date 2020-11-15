@@ -3,12 +3,12 @@ layout: page
 title: Branding Toolkit
 permalink: /branding-toolkit/
 order: 1
-image: images/pages/sticker.png
+image: images/pages/stickers.png
 ---
 
-This is the **IS IT HAPPENING?** branding toolkit.
+Dit is de **ROTTERDAM. IS IT HAPPENING?** branding toolkit.
 
 [Logo pdf](/attachments/test.pdf)
 [Logo eps](/attachments/test.eps)
 
-Order your sticker pack via ons e-mailadres [info@isithappening.nl](mailto:info@isithappening.nl?subject=Stickerpack&body=Ik wil graag stickers bestellen)
+Bestel een stickerpakket via ons e-mailadres [info@isithappening.nl](mailto:info@isithappening.nl?subject=Stickerpack&body=Ik wil graag stickers bestellen)

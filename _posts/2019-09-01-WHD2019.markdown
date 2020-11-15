@@ -12,6 +12,16 @@ tags:
 ---
 # Ter gelegenheid van de Wereldhavendagen en in solidariteit met de verschillende Rotterdamse klimaat bewegingen, heeft **ROTTERDAM. IS IT HAPPENING?** een zevental posters ontworpen. De posters zijn vrij te downloaden en wij moedigen iedereen aan deze op legale wijze te verspreiden. Al zijn gezien het gering aantal vrije plakplaatsen in Rotterdam de mogelijkheden daartoe beperkt.
 
+<div class="poster_wrapper">
+  <a href="https://www.isithappening.nl/pdf-js/web/IIH03_posters-MIH-01.pdf"><img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_01_s.jpg" class="tile_AX tile_white"></a>
+  <a href="https://www.isithappening.nl/pdf-js/web/IIH03_posters-MIH-02.pdf"><img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_02_s.jpg" class="tile_AX tile_white"></a>
+  <a href="https://www.isithappening.nl/pdf-js/web/IIH03_posters-MIH-03.pdf"><img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_03_s.jpg" class="tile_AX tile_white"></a>
+  <a href="https://www.isithappening.nl/pdf-js/web/IIH03_posters-MIH-04.pdf"><img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_04_s.jpg" class="tile_AX tile_white"></a>
+  <a href="https://www.isithappening.nl/pdf-js/web/IIH03_posters-MIH-05.pdf"><img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_05_s.jpg" class="tile_AX tile_white"></a>
+  <a href="https://www.isithappening.nl/pdf-js/web/IIH03_posters-MIH-06.pdf"><img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_06_s.jpg" class="tile_AX tile_white"></a>
+  <a href="https://www.isithappening.nl/pdf-js/web/IIH03_posters-MIH-07.pdf"><img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_07_s.jpg" class="tile_AX tile_white"></a>
+</div>
+
 Sinds 2014 is de slogan van Rotterdam **MAKE IT HAPPEN.**, geïnitieerd door de ‘merk-alliantie’ tussen gemeente, haven, universiteit en stadspromotor. Met deze marketingcampagne werkt de stad actief aan haar transformatie–in fysiek, sociaal en vooral economisch opzicht. De slogan is ook ingezet ter promotie van de Wereldhavendagen: een jaarlijks festijn ter viering van de Rotterdamse haven. Maar valt er werkelijk wat te vieren voor de grootste CO2 uitstoter van Nederland in het licht van de huidige klimaatcrisis?
 
 Concrete gevolgen op korte en lange termijn van die crisis zijn de stijgende zeespiegel, verlies van biodiversiteit, voedsel tekorten, dodelijke hitte-golven en droogtes, vernietegende stormen en woedende bosbranden. Het zijn effecten die nu al in toenemende mate ter wereld gebeuren. Dit suggereert een andere interpretatie van de leus **MAKE IT HAPPEN.** Namelijk als een onbedoeld *veroorzaken*. Wat als deze dominante mentaliteit, zo gefixeerd op economische groei, ten grondslag ligt aan de klimaatcrisis? Wat als het stedelijke beleid van Rotterdam juist verder bijdraagt aan het probleem?

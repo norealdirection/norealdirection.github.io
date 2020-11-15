@@ -27,5 +27,3 @@ De ambities van de neoliberale stad blijken vaak onverenigbaar met de oorspronke
 
 
 **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.** Een beetje stad beschikt immers over een zeker reflexief vermogen. Reflectie vereist dat je alert bent voor nieuwe gebeurtenissen, dat je niet altijd weet wat er moet gebeuren. In het huidige veelvoud aan problemen is een voorschrift niet louter wat Rotterdam nodig heeft. Antwoorden zijn interessant in zoverre zij nieuwe vragen mogelijk maken. Het wordt tijd dat Rotterdam zichzelf die vragen gaat stellen, en getuigenis geeft van de onmogelijkheden en contradicties van de hedendaagse stad.
-
-**ROTTERDAM. IS IT HAPPENING?**

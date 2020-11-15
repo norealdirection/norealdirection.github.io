@@ -4,7 +4,6 @@ title: "Het Markthal Effect"
 subtitle: "Over Winy Maas en het icoon van de **MAKE IT HAPPEN.** jaren."
 categories: home blog
 image: images/posts/markthal-effect/markthal-01.jpg
-image-credits:
 tags: 
  - Architectuur 
  - Stadsmarketing

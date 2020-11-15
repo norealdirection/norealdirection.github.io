@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Het Markthal Effect"
-subtitle: "Over Winy Maas en het icoon van de MAKE IT HAPPEN. jaren."
+subtitle: "Over Winy Maas en het icoon van de **MAKE IT HAPPEN.** jaren."
 categories: home blog
 image: images/posts/markthal-01.jpg
 image-credits:
@@ -15,9 +15,11 @@ In oktober 2014 opende de Markthal van MVRDV feestelijk haar deuren, twee maande
 
 Volgens MVRDV medewerker Jan Knikker ging de bal pas rollen tijdens de bouwfase: 
 
->‘Toen de bouw boven het maaiveld uitstak kwam er binnen Rotterdam een grote interesse op, ik zag telkens mensen naast de bouwplaats staan, terwijl er nog maar weinig te zien was. Ik dacht toen “dit gebouw wordt bekender dan wij als architectenbureau” en dacht dat we er iets mee moesten doen.’ 
+>Toen de bouw boven het maaiveld uitstak kwam er binnen Rotterdam een grote interesse op, ik zag telkens mensen naast de bouwplaats staan, terwijl er nog maar weinig te zien was. Ik dacht toen “dit gebouw wordt bekender dan wij als architectenbureau” en dacht dat we er iets mee moesten doen. 
 
 Dankzij een samenwerking met Rotterdam Partners werden er achthonderd artikelen over Rotterdam en haar nieuwe icoon verzameld, waarmee men van de Markthal ‘de clickbait van Rotterdam’ maakte. Zo begonnen de **MAKE IT HAPPEN.** jaren.
+
+[![Winy Maas](http://img.youtube.com/vi/Dds82luyxt0/0.jpg)](https://www.youtube.com/watch?v=Dds82luyxt0 "Winy Maas")
 
 Op dit moment staan een kwart van de kramen in de Markthal leeg door de coronacrisis. Voor architect Winy Maas ligt de pijn echter dieper dan het weggevallen toerisme. Hij beklaagt zich over de vercommercialisering van het originele idee en wijst daarbij naar de Franse exploitant van de hal, die te commercieel zou zijn ingesteld. In de droom van Maas hadden Rotterdammers hier gezamenlijk hun verse boodschappen moeten doen bij lokale producenten en ondernemers. Een beetje zoals op de markt, maar dan in een gebouw van 175 miljoen. Veel Rotterdammers bleven hun boodschappen liever doen bij de gewone markt, terwijl toeristen weinig behoefte bleken te hebben aan versproducten. De conclusie zou daarom moeten zijn dat het idee voor een versmarkt, naast de reeds bestaande markt, overbodig was.
 

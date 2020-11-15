@@ -11,7 +11,7 @@ tags:
 
 ---
 
-#In oktober 2014 opende de Markthal van MVRDV feestelijk haar deuren, twee maanden voor de lancering van Rotterdam’s nieuwe stadsslogan. In de loop van 2015 kon de stad rekenen op lovende recensies van internationale kranten en tijdschriften, waarop ze vervolgens een ongekende sprong zag in het aantal bezoekers en vestigende bedrijven. Architectuurbureau MVRDV groeide vier keer zo groot. Deze opeenvolging van gebeurtenissen, als gevolg van dat spraakmakende icoon, wordt in een artikel op de **ROTTERDAM. MAKE IT HAPPEN.** website geduid als [het Markthal effect](https://rotterdammakeithappen.nl/showcases/het-markthal-effect/).
+# In oktober 2014 opende de Markthal van MVRDV feestelijk haar deuren, twee maanden voor de lancering van Rotterdam’s nieuwe stadsslogan. In de loop van 2015 kon de stad rekenen op lovende recensies van internationale kranten en tijdschriften, waarop ze vervolgens een ongekende sprong zag in het aantal bezoekers en vestigende bedrijven. Architectuurbureau MVRDV groeide vier keer zo groot. Deze opeenvolging van gebeurtenissen, als gevolg van dat spraakmakende icoon, wordt in een artikel op de **ROTTERDAM. MAKE IT HAPPEN.** website geduid als [het Markthal effect](https://rotterdammakeithappen.nl/showcases/het-markthal-effect/).
 
 Volgens MVRDV medewerker Jan Knikker ging de bal pas rollen tijdens de bouwfase: 
 

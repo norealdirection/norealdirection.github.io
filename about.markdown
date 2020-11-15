@@ -5,7 +5,7 @@ image: images/pages/bouwkraan.jpg
 permalink: /about/
 order: 10
 backgroundcolor: '#59AB4E'
-textcolor: '#000000'
+textcolor: '#ffffff'
 titletextcolor: '#000000'
 ---
 

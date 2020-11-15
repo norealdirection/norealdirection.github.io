@@ -8,8 +8,6 @@ textcolor: '#000000'
 titletextcolor: '#000000'
 ---
 
-**IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.**
-
 **MAKE IT HAPPEN.** is sinds eind 2014 de stadsslogan en het merk van Rotterdam. Het is geïntroduceerd als een publiek-private samenwerking tussen Gemeente Rotterdam, Havenbedrijf, Erasmus Universiteit en stadspromoter Rotterdam Partners. Deze ‘merkalliantie’ is inmiddels versterkt met meerdere lokale bedrijven en instellingen. Er lijken weinig grenzen te zijn aan de kracht van deze activerende woorden. Ondernemingen en ondernemers kunnen de slogan adopteren of er door worden geadopteerd, mits hun activiteiten in lijn zijn met de voornaamste ambitie: economische groei van de stad Rotterdam.
 
 Dit zijn de **MAKE IT HAPPEN.** jaren. De tijd waarin de stad de plannen voor een Nieuw Rotterdam met succes realiseert. De contouren hiervan werden zichtbaar omstreeks 2013, toen Rotterdam zich internationaal strategisch in de kijker speelde met een reeks nieuwe architectonische iconen. Inmiddels lijkt alles er aan gelegen om de potentiële toppositie als vestigingsstad en toeristische trekpleister te verzilveren. **MAKE IT HAPPEN.** pronkt groots op de bouwborden die langs de velen bouwplaatsen in de stad te zien zijn. Luxe woontorens en eye-catchers zijn veelal het resultaat. Ook steeds verder op Zuid. **HIER ONTSTAAT HET. HIER GEBEURT HET.** Maar wat gebeurt er precies? Wie doen het gebeuren? Wie wint en wie verliest er?

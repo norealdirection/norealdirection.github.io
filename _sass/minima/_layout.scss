@@ -388,7 +388,7 @@ a.post-link {
 }
 
 .footer-heading {
-	@include	iih(1.125)
+	@include	iih(1)
 	
 }
 
@@ -399,16 +399,16 @@ a.post-link {
 }
 
 .footer-col-wrapper {
-		@include	relative-font-size(0.9375);
+		@include	relative-font-size(1);
 		color: $white-color-secondary;
-		margin-left: -$spacing-unit/2;
+		margin-right: -$spacing-unit/2;
 		@extend	%clearfix;
 }
 
 .footer-col {
-		float: left;
+		float: right;
 		margin-bottom: $spacing-unit	/	2;
-		padding-left: $spacing-unit	/	2;
+		padding-right: $spacing-unit	/	2;
 }
 
 .footer-col-1 {

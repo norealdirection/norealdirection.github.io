@@ -380,12 +380,12 @@ a.post-link {
 .site-footer {
 	background-color: $text-color-secondary;
 	// border-top: 1px solid $grey-color-secondary;
-	padding: $spacing-unit;
+	padding: $spacing-unit*2;
 
 
 	img.svg-logo {
 		// height: 24px;
-		margin-bottom: $spacing-unit;
+		margin-bottom: $spacing-unit*2;
 
 	}
 }

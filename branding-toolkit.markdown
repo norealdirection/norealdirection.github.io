@@ -3,6 +3,7 @@ layout: page
 title: Branding Toolkit
 permalink: /branding-toolkit/
 order: 1
+backgroundcolor: '#59AB4E'
 image: images/pages/stickers.png
 ---
 

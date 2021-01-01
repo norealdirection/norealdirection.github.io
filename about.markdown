@@ -27,4 +27,4 @@ Een stadsslogan is een politiek instrument dat richting geeft aan de lokale ontw
 
 **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.** De vraag stellen is de vraag beantwoorden. _Nee_, de stad komt vaak haar beloftes en verplichtingen niet na. _Ja_, er voltrekt zich een _man-made_, planetaire, ecologische ramp. Maar behalve een kritische vraag is dit een experiment in onwetendheid. Een beetje stad beschikt over een zeker reflexief vermogen en reflectie vereist dat je alert bent voor nieuwe gebeurtenissen, dat je niet altijd weet wat er moet gebeuren. Antwoorden zijn interessant in zoverre zij nieuwe vragen mogelijk maken. Het wordt tijd dat wij onszelf die vragen stellen. Door te getuigen van de onmogelijkheden en contradicties waar Rotterdam zich vandaag mee geconfronteerd ziet.
 
-![IS IT HAPPENING?](image/schrikhek-wit.png)
+![IS IT HAPPENING?](assets/misc/schrikhek-wit.png)

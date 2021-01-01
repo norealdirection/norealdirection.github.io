@@ -1,13 +1,12 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Home
 order: 0
-subtitle: |
+
   **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.**
 ---
-Dit zijn de **MAKE IT HAPPEN** jaren. De tijd waarin de stad de plannen voor een Nieuw Rotterdam met succes realiseert. Onder dit vastberaden motto zien we vandaag de transformatie van Rotterdam gebeuren—in fysiek én sociaal opzicht. De ambitie is duidelijk: Rotterdam moet vóóruit! Maar waarheen? Waarom? Met wie? Wat de stad zegt is niet altijd wat de stad doet. Wat er gebeurt is niet altijd wat er zou moeten gebeuren. En soms gebeuren er dingen die zich helemaal niet laten maken. Zelfs Rotterdam kan namelijk niet altijd de werkelijkheid naar haar hand zetten.
+#Dit zijn de **MAKE IT HAPPEN** jaren. De tijd waarin de stad de plannen voor een _Nieuw Rotterdam_ met succes realiseert. Onder dit vastberaden motto zien we vandaag de transformatie van Rotterdam gebeuren—in fysiek én sociaal opzicht. De ambitie is duidelijk: Rotterdam moet vóóruit! Maar waarheen? Waarom? Met wie? Wat de stad zegt is niet altijd wat de stad doet. Wat er gebeurt is niet altijd wat er zou moeten gebeuren. En soms gebeuren er dingen die zich helemaal niet laten maken. Zelfs Rotterdam kan namelijk niet altijd de werkelijkheid naar haar hand zetten.
 
-**IS IT HAPPENING?** is de andere kant van de Rotterdamse marketingcampagne. Een beetje stad beschikt immers over een zeker reflexief vermogen. Reflectie vereist dat je alert bent voor nieuwe gebeurtenissen, dat je niet altijd weet wat er moet gebeuren. In het huidige veelvoud aan problemen is een voorschrift niet louter wat Rotterdam nodig heeft. Antwoorden zijn interessant in zoverre zij nieuwe vragen mogelijk maken. Het wordt tijd dat we die vragen stellen, vraagtekens zetten bij de marketing, het beleid en de cultuur van Rotterdam. En haar toekomst.
+**MAKE IT HAPPEN.** moet een samenvatting voorstellen van het verhaal van Rotterdam. Deze uitspraak er op gericht de stad en haar omgeving te veranderen. Het is de identiteit van Rotterdam, zegt men. Maar ondernemerschap alleen maakt geen identiteit. De ondernemer, het bedrijfsleven en de markt maken de economie, maar andere maatschappelijke structuren breken ze juist op. Geen vernieuwing zonder vernieling. Geen winnaars zonder verliezers. In onze complexe, postmoderne tijd is de slogan van Rotterdam echter niet per se verkeerd, maar wel incompleet; het ontbreekt haar aan reflectie. Onder het fineer van haar _can-do_ mentaliteit vindt men een ander stedelijke bewustzijn. Een bewustzijn dat getuigen is van de (toenemende) onmogelijkheid om de werkelijkheid—en de stad—te maken. Zelfs Rotterdam kan namelijk niet altijd de werkelijkheid naar haar hand zetten.
+
+
+**IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.** De vraag stellen is de vraag beantwoorden. _Nee_, de stad komt vaak haar beloftes en verplichtingen niet na. _Ja_, er voltrekt zich een _man-made_, planetaire, ecologische ramp. Maar behalve een kritische vraag is dit een experiment in onwetendheid. Een beetje stad beschikt over een zeker reflexief vermogen en reflectie vereist dat je alert bent voor nieuwe gebeurtenissen, dat je niet altijd weet wat er moet gebeuren. Antwoorden zijn interessant in zoverre zij nieuwe vragen mogelijk maken. Het wordt tijd dat wij onszelf die vragen stellen. Door te getuigen van de onmogelijkheden en contradicties waar Rotterdam zich vandaag mee geconfronteerd ziet.

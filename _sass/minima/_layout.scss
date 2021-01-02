@@ -65,7 +65,14 @@
 	}
 
 	.page-link {
-		color: $white-color;
+		color: black;
+		font-family: "Futura";
+		font-weight: bold;
+		font-style: normal;
+		text-transform: uppercase;
+		padding: 0.1rem 0;*/
+		border-top: 3px solid #1a1918;
+		border-bottom: 3px solid #1a1918
 		line-height: $base-line-height;
 	}
 

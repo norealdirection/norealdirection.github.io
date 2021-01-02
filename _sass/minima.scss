@@ -97,13 +97,15 @@ $small-font-size:  $base-font-size * 0.875 !default;
 	}
 	.swiper-button-prev,
 	.swiper-button-next {
-		rgba(255, 255, 255, 0.5);
+		color: white;
+		opacity: 0.5;
 	}
-	.swiper-button-prev,
-	.swiper-button-next,
-	.swiper-pagination-bullet {
+	//.swiper-button-prev,
+	//.swiper-button-next,
+	//.swiper-pagination-bullet {
 		// opacity: .2;
 	}
+
 	.swiper-pagination-bullet-active{
 		// background-color: $green-color;
 		background-color: $white-color;

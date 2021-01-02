@@ -62,10 +62,11 @@
 
 	.page-link-box {
 		background-color: white;
+		color: white;
 		width: auto;
 		height: auto;
 		//padding: 0.1rem;
-		margin: 1rem;
+		//margin: 1rem;
 	}
 
 	.page-link {
@@ -216,11 +217,11 @@ section.post {
 		height: $spacing-unit*12;
 		width: 50%;
 	}
+
 	.post-info  {
 		float: left;
 		padding: $spacing-unit;
 		
-
 		ul, li {
 			margin: 0;
 			padding: 0;

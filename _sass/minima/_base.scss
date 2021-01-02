@@ -100,9 +100,10 @@ li {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: $base-font-weight;
 }
-.post-header h1 {
+
+/*.post-header h1 {
 	text-shadow: 3px 3px 24px $grey-color;
-}
+}*/
 
 /**
  * Links
@@ -300,7 +301,7 @@ table {
 		border: 1px solid darken($grey-color-secondary, 4%);
 		border-bottom-color: darken($grey-color-secondary, 12%);
 	}
-	
+
 	td {
 		border: 1px solid $grey-color-secondary;
 	}

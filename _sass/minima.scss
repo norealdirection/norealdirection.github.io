@@ -64,7 +64,7 @@ $small-font-size:  $base-font-size * 0.875 !default;
 	line-height: $futura-line-height;
 
 	span {
-		padding: #{$futura-font-size/10*$ratio} #{$futura-font-size/6*$ratio};
+		padding: #{$futura-font-size/10*$ratio} #{$futura-font-size/10*$ratio};
 		margin: #{$futura-font-size/5*$ratio} 0;
 	}
 }
@@ -117,6 +117,7 @@ strong {
 	font-weight: $futura-font-weight;
 	text-transform: uppercase;
 }
+
 strong span,
 .iih span {
 	display: inline-block;
@@ -124,9 +125,8 @@ strong span,
 	font-family: $futura-font-family;
 	font-weight: $futura-font-weight;
 	text-transform: uppercase;
-
-	background: $white-color;
-	color: $text-color;
+	background: $text-color;
+	color: $white-color;
 }
 #introduction strong span,
 #introduction .iih span {

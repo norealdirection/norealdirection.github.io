@@ -503,9 +503,9 @@ a.post-link {
 /**
 	*	Posts
 	*/
-.post-header {
-	margin-bottom: $spacing-unit;
-}
+//.post-header {
+//	margin-bottom: $spacing-unit;
+//}
 
 .post-hero {
 	position: relative;
@@ -569,7 +569,9 @@ a.post-link {
 }
 
 .post-content {
-	margin-bottom: $spacing-unit;
+	padding-top: $spacing-unit;
+	padding-bottom: $spacing-unit;
+	//margin-bottom: $spacing-unit;
 
 	h2 {
 			@include	relative-font-size(2);

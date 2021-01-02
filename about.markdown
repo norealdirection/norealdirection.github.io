@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About.
+title: About
 image: images/pages/bouwkraan.jpg
 permalink: /about/
 order: 10

@@ -30,8 +30,6 @@
 	position: absolute;
 	z-index: 30;
 
-	@include iih(1.5);
-
 	img.svg-logo {
 		height: 144px; // height of nav <label>
 	}

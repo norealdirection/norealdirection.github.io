@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-$spacing-unit:     30px !default;
+$spacing-unit:     24px !default;
 
 $text-color:       #000 !default;
 $text-color-secondary: lighten($text-color, 10%) !default;
@@ -97,7 +97,7 @@ $small-font-size:  $base-font-size * 0.875 !default;
 	}
 	.swiper-button-prev,
 	.swiper-button-next {
-		color: $grey-color;
+		rgba(0, 0, 0, 0.5);
 	}
 	.swiper-button-prev,
 	.swiper-button-next,

@@ -115,13 +115,13 @@
 		input	~ .trigger { // interaction here
 			// display: none; //
 			opacity: 0;
-			pointer-events: none;
+			//pointer-events: none;
 		}
 
 		input:checked ~ .trigger {
 			opacity: 1;
 			transition: .2s opacity;
-			pointer-events: initial;
+			//pointer-events: initial;
 
 			// interaction here -^
 			display: block;

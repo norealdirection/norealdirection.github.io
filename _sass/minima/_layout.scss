@@ -65,7 +65,7 @@
 		width: auto;
 		height: auto;
 		//padding: 0.1rem;
-		margin: 0.1rem;
+		margin: 1rem;
 	}
 
 	.page-link {
@@ -74,7 +74,7 @@
 		font-weight: bold;
 		font-style: normal;
 		text-transform: uppercase;
-		padding: 0.1rem;
+		//padding: 0.1rem;
 		border-top: 3px solid #000;
 		border-bottom: 3px solid #000;
 		line-height: $base-line-height;
@@ -100,17 +100,17 @@
 		}
 
 		.menu-icon {
-				display: block;
-				// float: right;
-				width: 36px;
-				height: 26px;
-				// line-height: 0;
-				padding-top: 8px;
-				// text-align: center;
+			display: block;
+			// float: right;
+			width: 36px;
+			height: 26px;
+			// line-height: 0;
+			padding-top: 8px;
+			// text-align: center;
 
-				>	svg {
-					fill: $text-color;
-				}
+			>	svg {
+				fill: $text-color;
+			}
 		}
 
 		input	~ .trigger { // interaction here

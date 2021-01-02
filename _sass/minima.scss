@@ -101,6 +101,7 @@ $small-font-size:  $base-font-size * 0.875 !default;
 	.swiper-pagination-bullet {
 		color: white;
 		opacity: 0.8;
+		margin: $spacing-unit;
 	}
 
 	.swiper-button-prev:hover,

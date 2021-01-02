@@ -163,7 +163,6 @@ h1, h2, h3, h4, h5, h6 {
 blockquote {
 	border-left: 1.125*2px solid $white-color;
 	padding-left: $spacing-unit / 2;
-
 }
 
 blockquote p {
@@ -171,7 +170,11 @@ blockquote p {
 	@include relative-font-size(1.125);
 
 	font: $futura-font-weight #{$futura-font-size}/#{$futura-line-height} $futura-font-family;
-	text-transform: uppercase;
+	text-decoration: italic;
+	//text-transform: uppercase;
+
+	margin-bottom: $spacing-unit;
+	margin-top: $spacing-unit;
 
 	> :last-child {
 		margin-bottom: 0;
@@ -241,6 +244,7 @@ pre {
 	//margin-bottom: -$spacing-unit*2;
 	margin-right: auto;
 	margin-left: auto;
+	padding-bottom: $spacing-unit;
 	padding-right: $spacing-unit;
 	padding-left: $spacing-unit;
 

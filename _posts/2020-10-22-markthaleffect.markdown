@@ -18,7 +18,7 @@ Volgens MVRDV medewerker Jan Knikker ging de bal pas rollen tijdens de bouwfase:
 
 Dankzij een samenwerking met Rotterdam Partners werden er achthonderd artikelen over Rotterdam en haar nieuwe icoon verzameld, waarmee men van de Markthal ‘de clickbait van Rotterdam’ maakte. Zo begonnen de **MAKE IT HAPPEN.** jaren.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dds82luyxt0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dds82luyxt0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="margin-bottom:23px;"></iframe>
 
 Op dit moment staan een kwart van de kramen in de Markthal leeg door de coronacrisis. Voor architect Winy Maas ligt de pijn echter dieper dan het weggevallen toerisme. Hij beklaagt zich over de vercommercialisering van het originele idee en wijst daarbij naar de Franse exploitant van de hal, die te commercieel zou zijn ingesteld. In de droom van Maas hadden Rotterdammers hier gezamenlijk hun verse boodschappen moeten doen bij lokale producenten en ondernemers. Een beetje zoals op de markt, maar dan in een gebouw van 175 miljoen. Veel Rotterdammers bleven hun boodschappen liever doen bij de gewone markt, terwijl toeristen weinig behoefte bleken te hebben aan versproducten. De conclusie zou daarom moeten zijn dat het idee voor een versmarkt, naast de reeds bestaande markt, overbodig was.
 

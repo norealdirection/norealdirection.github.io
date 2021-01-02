@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Branding Toolkit.
+title: Branding Toolkit
 image: images/pages/stickers.png
 permalink: /branding-toolkit/
 order: 1

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home.
+title: Home
 order: 0
 subtitle: |
   **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.**

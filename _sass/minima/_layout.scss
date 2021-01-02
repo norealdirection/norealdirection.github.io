@@ -38,7 +38,6 @@
 
 }
 
-
 .site-nav {
 	position: absolute;
 	top: $spacing-unit*.75;
@@ -165,23 +164,24 @@
 	background-color: $green-color-tertiary;
 	padding: $spacing-unit 0 $spacing-unit;
 
-	color: $text-color;
+	color: white;
 
 	.intro {
 		text-align: center;
 		padding: $spacing-unit/2 $spacing-unit/2;
-
 		font-size: 1.75rem;
 
 		strong {
 			@include	iih(1.33)
 		}
 	};
+
 	.content { /* nothing here*/ };
 
 	strong, .iih {
 		@include	iih(1)
 	}
+
 	p {
 		margin-bottom: $spacing-unit*2;
 	}

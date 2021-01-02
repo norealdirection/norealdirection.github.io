@@ -33,7 +33,7 @@
 	@include iih(1.5);
 
 	img.svg-logo {
-		height: 144px; // height of nav <label>
+		width: 136px; // height of nav <label>
 	}
 
 }
@@ -291,6 +291,7 @@ a.post-link {
 	}
 
 }
+
 @include	media-query($on-palm) {
 	section.post {
 		height: auto;

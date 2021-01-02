@@ -100,14 +100,15 @@ $small-font-size:  $base-font-size * 0.875 !default;
 		color: white;
 		opacity: 0.8;
 	}
-	.swiper-button-prev,
-	.swiper-button-next,
+	.swiper-button-prev:hover,
+	.swiper-button-next:hover,
 	.swiper-pagination-bullet:hover {
+		color: white;
 		opacity: 1;}
 
 	.swiper-pagination-bullet-active{
 		// background-color: $green-color;
-		background-color: $white-color;
+		color: white;
 		opacity: 1;
 
 	}

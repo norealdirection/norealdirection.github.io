@@ -540,7 +540,8 @@ a.post-link {
 	color: $white-color;
 
 	// top and bottom strokes
-	padding-top: $futura-font-size;
+	padding-top: $futura-font-size/2;
+	padding-bottom: $futura-font-size/2;
 	border-top: 6px $white-color solid;
 	border-bottom: 6px $white-color solid;
 

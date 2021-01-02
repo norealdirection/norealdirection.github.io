@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-	margin-bottom: $spacing-unit / 2;
+	margin-bottom: $spacing-unit/2;
 }
 
 /**
@@ -127,8 +127,9 @@ h1, h2, h3, h4, h5, h6 {
 	text-decoration: underline;
 
 	&:visited {
-		color: $green-color-tertiary
+		color: $green-color-tertiary;
 	}
+
 	&:hover {
 		color: $green-color-tertiary;
 	}
@@ -235,7 +236,7 @@ pre {
 .wrapper {
 	max-width: -webkit-calc(#{$content-width}-(#{$spacing-unit}*2));
 	max-width: calc(#{$content-width}-(#{$spacing-unit}*2));
-	margin-top: $spacing-unit*2;
+	//margin-top: $spacing-unit*2;
 	margin-right: auto;
 	margin-left: auto;
 	padding-right: $spacing-unit;

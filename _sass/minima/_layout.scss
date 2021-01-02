@@ -10,10 +10,8 @@
 		// position: sticky;
 		position: fixed;
 		width: 100%;
-
 		top: 0;
 		z-index: 30;
-
 		padding: $spacing-unit/2;
 
 		// background-color: $text-color;
@@ -31,7 +29,7 @@
 	z-index: 30;
 
 	img.svg-logo {
-		width: 136px; // height of nav <label>
+		width: 192px; // height of nav <label>
 	}
 
 }
@@ -187,7 +185,7 @@
 	}
 
 	p {
-		margin-bottom: $spacing-unit*2;
+		margin-bottom: $spacing-unit*1.5;
 	}
 }
 
@@ -220,11 +218,13 @@ section.post {
 			padding: 0;
 			list-style-type: none;
 		}
+
 		ul {
 			position: absolute;
 			bottom: $spacing-unit;
 			right: $spacing-unit;
 		}
+
 		.post-tag {
 			display: inline-block;
 			color: $white-color;
@@ -387,12 +387,10 @@ a.post-link {
 	// border-top: 1px solid $grey-color-secondary;
 	padding: $spacing-unit*2.5;
 
-
 	img.svg-logo {
 		// height: 24px;
 		max-width: 100%;
 		margin-bottom: 5%;
-
 	}
 }
 

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Branding Toolkit
+title: Branding Toolkit.
+image: images/pages/stickers.png
 permalink: /branding-toolkit/
 order: 1
 backgroundcolor: '#59AB4E'
-image: images/pages/stickers.png
+textcolor: '#ffffff'
 ---
 
 Dit is de **ROTTERDAM. IS IT HAPPENING?** branding toolkit.

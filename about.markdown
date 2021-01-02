@@ -6,7 +6,6 @@ permalink: /about/
 order: 10
 backgroundcolor: '#59AB4E'
 textcolor: '#ffffff'
-titletextcolor: '#000000'
 ---
 
 Dit zijn de **MAKE IT HAPPEN.** jaren. De tijd waarin de stad de plannen voor een _Nieuw Rotterdam_ met succes realiseert. De contouren hiervan werden zichtbaar omstreeks 2013, met de realisatie van een reeks nieuwe iconen, waarmee Rotterdam zich internationaal strategisch in de kijker speelde. Inmiddels lijkt alles er aan gelegen om de toppositie als vestigingsstad te verzilveren. **MAKE IT HAPPEN.** pronkt groots op bouwborden langs de velen bouwplaatsen in de stad. Luxe woontorens en eye-catchers zijn veelal het resultaat. Ook steeds verder op Zuid. **HIER ONTSTAAT HET. HIER GEBEURT HET.** Maar _wat_ gebeurt er precies? _Wie_ doen het gebeuren? Wie wint en wie verliest er?

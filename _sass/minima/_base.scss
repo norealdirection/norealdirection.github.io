@@ -109,28 +109,28 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 .site-header a {
-	color: $white-color;
+	color: $black;
 	text-decoration: none;
 
-	&:visited {
-		color: $white-color-tertiary;
-		text-decoration: none;
-	}
+	//&:visited {
+	//	color: $white-color-tertiary;
+	//	text-decoration: none;
+	//}
 
-	&:hover {
-		color: $white-color;
-	}
+	//&:hover {
+	//	color: $white-color;
+	//}
 }
 
 .post-content a {
-	color: $green-color;
+	color: $white;
 	text-decoration: underline;
 
 	&:visited {
 		color: $green-color-tertiary
 	}
 	&:hover {
-		color: $green-color;
+		color: $green-color-tertiary;
 	}
 }
 

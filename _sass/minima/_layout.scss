@@ -535,7 +535,7 @@ a.post-link {
 	margin: 0; /*$spacing-unit $spacing-unit/2;*/
 
 	// typography
-	font: $futura-font-weight #{$futura-font-size*2.5}/$futura-line-height; $futura-font-family;
+	font: $futura-font-weight #{$futura-font-size*2.5}/$futura-line-height $futura-font-family;
 	text-transform: uppercase;
 	color: $white-color;
 

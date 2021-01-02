@@ -509,7 +509,7 @@ a.post-link {
 	position: relative;
 	display: block;
 	margin-bottom: $spacing-unit;
-	padding: #{$futura-font-size} 0;
+	padding: #{$futura-font-size*2} 0;
 	// hero image
 	// min-height: 20vh;
 	width: 100%;
@@ -528,7 +528,7 @@ a.post-link {
 .post-title {
 	// layout
 	position: absolute;
-	bottom: 10%;
+	bottom: $spacing-unit;
 	/**left: 0;**/
 	margin: 0; /*$spacing-unit $spacing-unit/2;*/
 
@@ -538,9 +538,9 @@ a.post-link {
 	color: $white-color;
 
 	// top and bottom strokes
-	padding: #{$futura-font-size/2} 0;
-	border-top: 2.625*2px $white-color solid;
-	border-bottom: 2.625*2px $white-color solid;
+	padding: #{$futura-font-size/4} 0;
+	border-top: 3px $white-color solid;
+	border-bottom: 3px $white-color solid;
 
 	@include	relative-font-size(2.625);
 	// letter-spacing: -1px;

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home.
 ---
 
 <div class="home">
@@ -8,16 +8,12 @@ title: Home
 	{% include slideshow.html folder="/images/slideshow" %}
 
 	<section id="introduction">
-			<div id="manifesto">
-			<!-- <details id="manifesto"> -->
-				<!-- <summary> -->
-					<div class="intro">{{ page.subtitle | markdownify }}</div>
-				<!-- </summary> -->
-					<div class="wrapper">
-						<div class="content">{{ content }}</div>
-					</div>
-				<!-- </details> -->
+		<div id="manifesto">
+			<div class="intro">{{ page.subtitle | markdownify }}</div>
+			<div class="wrapper">
+				<div class="content">{{ content }}</div>
 			</div>
+		</div>
 	</section>
 
 

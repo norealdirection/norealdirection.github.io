@@ -60,15 +60,22 @@
 		}
 	}
 
+	.page-link-box {
+		background-color: white;
+		width: auto;
+		height: auto;
+		padding: 0.1rem;
+	}
+
 	.page-link {
 		color: black;
 		font-family: "Futura";
 		font-weight: bold;
 		font-style: normal;
 		text-transform: uppercase;
-		padding: 0.1rem 0;*
-		border-top: 3px solid #1a1918;
-		border-bottom: 3px solid #1a1918;
+		padding: 0.1rem;
+		border-top: 3px solid #000;
+		border-bottom: 3px solid #000;
 		line-height: $base-line-height;
 	}
 

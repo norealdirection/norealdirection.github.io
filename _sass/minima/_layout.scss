@@ -68,7 +68,7 @@
 		font-weight: bold;
 		font-style: normal;
 		text-transform: uppercase;
-		padding: 0.1rem 0;*/
+		padding: 0.1rem 0;*
 		border-top: 3px solid #1a1918;
 		border-bottom: 3px solid #1a1918;
 		line-height: $base-line-height;
@@ -346,7 +346,7 @@ a.post-link {
 
 		// top and bottom strokes
 		padding: #{$futura-font-size*.75} 0;
-		border-top: 2.625*2px $text-color solid;
+		border-top: 2.625*2px $text-color 1a1918;
 		border-bottom: 2.625*2px $text-color solid;
 	}
 	> div {

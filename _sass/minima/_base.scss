@@ -163,6 +163,7 @@ blockquote {
 	padding-left: $spacing-unit / 2;
 
 }
+
 blockquote p {
 	color: $white-color;
 	@include relative-font-size(1.125);

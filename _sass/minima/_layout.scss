@@ -537,8 +537,8 @@ a.post-link {
 
 	// top and bottom strokes
 	padding: #{$futura-font-size/4} 0;
-	border-top: 4px $white-color solid;
-	border-bottom: 4px $white-color solid;
+	border-top: 6px $white-color solid;
+	border-bottom: 6px $white-color solid;
 
 	@include	relative-font-size(2.625);
 	// letter-spacing: -1px;

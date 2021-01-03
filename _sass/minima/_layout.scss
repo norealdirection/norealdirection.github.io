@@ -175,8 +175,8 @@
 
 	.intro {
 		text-align: center;
-		//padding: $spacing-unit/2 $spacing-unit/2;
 		font-size: 1.75rem;
+		margin-bottom: $spacing-unit*2;
 
 		strong {
 			@include	iih(1.33)

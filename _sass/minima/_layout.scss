@@ -163,8 +163,6 @@
 	}
 }
 
-
-
 /**
 *	Site	Introduction
 */
@@ -177,6 +175,7 @@
 		text-align: center;
 		font-size: 1.5rem;
 		margin-bottom: $spacing-unit*2;
+		margin-top: 0;
 	}
 
 	//	strong {
@@ -185,7 +184,8 @@
 
 	.intro img {
 		height: $futura-font-size;
-		display: inline; 
+		display: inline;
+		margin: 0;
 		margin-right: $spacing-unit/4;
 	}
 

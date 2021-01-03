@@ -53,8 +53,8 @@
 	li {
 		display: inline-block;
 		list-style-type: none;
-		margin: $spacing-unit;
 		background-color: white;
+		margin: $spacing-unit/2;
 		&:not(:last-child) {
 			margin-right: $spacing-unit/2;
 		}
@@ -64,7 +64,7 @@
 		width: auto;
 		height: auto;
 		display: inline-block;
-  		margin: 10px 6px;
+  		margin: 12px 6px;
 	}
 
 	.page-link {
@@ -74,7 +74,7 @@
 		font-style: normal;
 		text-transform: uppercase;
 		margin: 0px;
-		padding: 0.2rem 0;
+		padding: 0.1rem 0;
 		border-top: 3px solid black;
 		border-bottom: 3px solid black;
 		line-height: $base-line-height;
@@ -177,10 +177,6 @@
 		margin-bottom: $spacing-unit*1.5;
 		margin-top: 0;
 	}
-
-	//	strong {
-	//		@include	iih(1.33)
-	//	}
 
 	.intro img {
 		height: $futura-font-size*2;

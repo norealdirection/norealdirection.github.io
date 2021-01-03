@@ -192,16 +192,16 @@
 	}
 
 	p {
-		margin-bottom: $spacing-unit*1.5;
+		margin-top: $spacing-unit*1.5;
 	}
 
-	p:last-child {
-		margin-bottom: 0;
-	}
+	//p:last-child {
+	//	margin-bottom: 0;
+	//}
 
-	h1 {
-		margin-bottom: $spacing-unit*2;
-	}
+	//h1 {
+	//	margin-bottom: $spacing-unit*2;
+	//}
 }
 
 /**

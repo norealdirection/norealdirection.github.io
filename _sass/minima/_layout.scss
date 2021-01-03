@@ -36,8 +36,8 @@
 
 .site-nav {
 	position: absolute;
-	top: $spacing-unit*.75;
-	right: $spacing-unit/2;
+	top: $spacing-unit/2;
+	//right: $spacing-unit/2;
 	float: right;
 
 	// line-height: $base-line-height	*	$base-font-size	*	2.25;
@@ -55,7 +55,6 @@
 		list-style-type: none;
 		background-color: white;
 		margin: 0;
-		padding: 0;
 		margin-right: $spacing-unit/2;
 		}
 	}

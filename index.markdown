@@ -4,9 +4,9 @@ title: Home
 order: 0
 subtitle: |
 ---
-<img href="/assets/logos/iih-b.svg" height="24px" style="display: inline-block; margin: 24px;" markdown="1">
+<img src="/assets/logos/iih-b.svg" height="24px" style="display: inline-block; margin: 24px;" markdown="1">
 is de vraag op het antwoord
-<img href="/assets/logos/mih-b.svg" height="24px" style="display: inline-block; margin: 24px;" markdown="1">
+<img src="/assets/logos/mih-b.svg" href="https://www.rotterdammakeithappen.nl" height="24px" style="display: inline-block; margin: 24px;" markdown="1">
 
 Als stadsslogan moet **MAKE IT HAPPEN.** een samenvatting voorstellen van het verhaal van Rotterdam. Deze uitspraak er op gericht de stad en haar omgeving te veranderen. Het is de identiteit van Rotterdam, zegt men. Maar ondernemerschap alleen maakt geen identiteit. De ondernemer, het bedrijfsleven en de markt maken de economie, maar andere maatschappelijke structuren breken ze juist op. Geen vernieuwing zonder vernieling. Geen winnaars zonder verliezers. De slogan van Rotterdam is een gegeven, maar zij is incompleet; het ontbreekt haar aan reflectie. Onder het fineer van haar _can-do_ mentaliteit vindt men een ander stedelijke bewustzijn. Een bewustzijn dat getuigen is van de (toenemende) onmogelijkheid om de werkelijkheid—en de stad—te maken. Zelfs Rotterdam kan namelijk niet altijd de werkelijkheid naar haar hand zetten.
 

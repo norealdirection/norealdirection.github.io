@@ -170,7 +170,7 @@ blockquote p {
 	@include relative-font-size(1.125);
 
 	font: $futura-font-weight #{$futura-font-size}/#{$futura-line-height} $futura-font-family;
-	font-style: italic;
+	//font-style: italic;
 	//text-transform: uppercase;
 
 	margin-bottom: $spacing-unit;

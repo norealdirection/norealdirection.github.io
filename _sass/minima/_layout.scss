@@ -177,10 +177,18 @@
 		text-align: center;
 		font-size: 1.75rem;
 		margin-bottom: $spacing-unit*2;
+	}
 
-		strong {
-			@include	iih(1.33)
-		}
+	//	strong {
+	//		@include	iih(1.33)
+	//	}
+
+	.intro img {
+		height: $futura-font-size;
+		display: inline; 
+		margin-right: $spacing-unit/4;
+	}
+
 	};
 
 	.content { /* nothing here*/ };

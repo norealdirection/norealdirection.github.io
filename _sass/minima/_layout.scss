@@ -74,7 +74,7 @@
 		font-style: normal;
 		text-transform: uppercase;
 		margin: 0px;
-		padding: 2px 0;
+		padding: 0.1rem 0;
 		border-top: 3px solid black;
 		border-bottom: 3px solid black;
 		line-height: $base-line-height;
@@ -168,7 +168,7 @@
 */
 #introduction {
 	background-color: $green-color-tertiary;
-	padding: $spacing-unit*2 0;
+	padding: $spacing-unit*2 0 $spacing-unit*2;
 	color: white;
 
 	.intro {
@@ -182,7 +182,7 @@
 		height: $futura-font-size*1.5;
 		display: inline;
 		margin: 0;
-		margin-right: $spacing-unit/8;
+		margin-right: $spacing-unit/5;
 	}
 
 	.content { /* nothing here*/ };

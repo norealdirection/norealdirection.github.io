@@ -168,7 +168,7 @@
 */
 #introduction {
 	background-color: $green-color-tertiary;
-	padding: 0 0 $spacing-unit*2 0;
+	padding: $spacing-unit*2 0 $spacing-unit*2 0;
 	color: white;
 
 	.intro {
@@ -183,7 +183,7 @@
 		display: inline;
 		margin: 0;
 		margin-right: $spacing-unit/6;
-		margin-bottom: -$spacing-unit/4;
+		margin-bottom: $spacing-unit/4;
 	}
 
 	.content { /* nothing here*/ };

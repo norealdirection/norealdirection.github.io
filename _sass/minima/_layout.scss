@@ -168,7 +168,7 @@
 */
 #introduction {
 	background-color: $green-color-tertiary;
-	padding: $spacing-unit*2 0;
+	padding: $spacing-unit*2 0 0 0;
 	color: white;
 
 	.intro {
@@ -179,10 +179,10 @@
 	}
 
 	.intro img {
-		height: $futura-font-size*1.75;
+		height: $futura-font-size*1.65;
 		display: inline;
 		margin: 0;
-		margin-right: $spacing-unit/8;
+		margin-right: $spacing-unit/6;
 	}
 
 	.content { /* nothing here*/ };

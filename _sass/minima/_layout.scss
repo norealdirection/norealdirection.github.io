@@ -183,7 +183,8 @@
 		height: $futura-font-size*1.65;
 		display: inline;
 		margin: 0;
-		margin-right: $spacing-unit/5;
+		margin-right: $spacing-unit/4;
+		margin-right: -2px;
 	}
 
 	.content { /* nothing here*/ };

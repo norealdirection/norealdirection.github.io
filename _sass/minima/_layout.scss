@@ -182,6 +182,10 @@
 		font-size: $futura-font-size;
 	}
 
+	h1 strong {
+		font-size: $futura-font-size*1.5;
+	}
+
 	.intro img {
 		height: $futura-font-size*1.6;
 		display: inline;

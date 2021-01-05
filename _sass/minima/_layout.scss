@@ -192,7 +192,7 @@
 	.content { /* nothing here*/ };
 
 	strong, .iih {
-		@include	iih(1)
+		@include	iih(1);
 	}
 
 	p {
@@ -414,7 +414,7 @@ a.post-link {
 }
 
 .footer-heading {
-	@include	iih(1)
+	@include	iih(1);
 	
 }
 

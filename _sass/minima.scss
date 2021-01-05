@@ -122,18 +122,7 @@ strong {
 	font-size: $futura-font-size;
 }
 
-strong span,
-.iih span {
-	display: inline-block;
-	font-family: $futura-font-family;
-	font-weight: $futura-font-weight;
-	text-transform: uppercase;
-	background: $text-color;
-	color: $white-color;
-}
-#introduction strong span,
-#introduction .iih span {
-	background: $text-color;
-	color: $white-color;
+h1 strong {
+	font-size: $futura-font-size*1.5;
 }
 

@@ -178,14 +178,6 @@
 		margin-top: 0;
 	}
 
-	strong {
-		font-size: $futura-font-size;
-	}
-
-	h1 strong {
-		font-size: $futura-font-size*1.5;
-	}
-
 	.intro img {
 		height: $futura-font-size*1.6;
 		display: inline;
@@ -194,10 +186,6 @@
 	}
 
 	.content { /* nothing here*/ };
-
-	strong, .iih {
-		@include	iih(1);
-	}
 
 	p {
 		margin-top: $spacing-unit*1.5;

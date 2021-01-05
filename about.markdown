@@ -26,4 +26,4 @@ De uitspraak **MAKE IT HAPPEN.** is er op gericht de stad en haar omgeving te ve
 
 **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.** De vraag stellen is de vraag beantwoorden: _nee_, de stad komt vaak haar beloftes en verplichtingen niet na; _ja_, er voltrekt zich een _man-made_, planetaire, ecologische ramp. Maar behalve een kritische of rhetorische vraag is dit een experiment in onwetendheid. Een beetje stad beschikt over een zeker reflexief vermogen en reflectie vereist dat je alert bent voor nieuwe gebeurtenissen, dat je niet altijd weet wat er moet gebeuren. Antwoorden zijn interessant in zoverre zij nieuwe vragen mogelijk maken. Het wordt tijd dat wij onszelf die vragen stellen. Door te getuigen van de onmogelijkheden en contradicties waar Rotterdam zich vandaag mee geconfronteerd ziet. Opdat wij wellicht bescheidener een onzekere toekomst tegemoet zullen treden.
 
-![IS IT HAPPENING?](assets/misc/schrikhek-wit2.png)
+![IS IT HAPPENING?](assets/misc/schrikhek-wit3.png)

@@ -257,7 +257,7 @@ section.post {
 			background-color: $green-color-tertiary;
 			@include relative-font-size(.875);
 			text-transform: uppercase;
-			padding: #{$base-font-size/6} #{$base-font-size/6};
+			padding: #{$base-font-size/6} #{$base-font-size/3};
 
 			&:not(:last-of-type){
 				margin-right: $spacing-unit/4;

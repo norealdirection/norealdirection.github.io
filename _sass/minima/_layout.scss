@@ -174,15 +174,15 @@
 	.intro {
 		text-align: center;
 		font-size: 1.5rem;
-		//margin-bottom: $spacing-unit*1.5;
 		margin-top: 0;
 	}
 
 	.intro-link {
-		color: whitw;
+		color: white;
 		font-family: "Futura";
 		font-weight: bold;
 		font-style: normal;
+		text-decoration: none;
 		text-transform: uppercase;
 		margin: 0px;
 		padding: 1px 0;
@@ -191,12 +191,11 @@
 		line-height: $base-line-height;
 	}
 
-
 	.intro img {
 		height: $futura-font-size*1.6;
 		display: inline;
 		margin: 0;
-		transform: translateY(-6px);
+		transform: translateY(6px);
 		//margin-right: $spacing-unit/5;
 	}
 

@@ -188,7 +188,7 @@
 		height: $futura-font-size*1.6;
 		display: inline;
 		margin: 0;
-		bottom: -8px;
+		top: -8px;
 		//margin-right: $spacing-unit/5;
 	}
 
@@ -249,7 +249,7 @@ section.post {
 			background-color: $green-color-tertiary;
 			@include relative-font-size(.875);
 			text-transform: uppercase;
-			padding: #{$base-font-size/10} #{$base-font-size/6};
+			padding: #{$base-font-size/6} #{$base-font-size/6};
 
 			&:not(:last-of-type){
 				margin-right: $spacing-unit/4;

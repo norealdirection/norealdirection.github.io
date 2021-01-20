@@ -14,8 +14,6 @@ Als stadsslogan moet **MAKE IT HAPPEN.** een samenvatting voorstellen van het ve
 
 [Lees meer](https://norealdirection.github.io/about/)
 
-[**Lees meer**](https://norealdirection.github.io/about/)
-
 <div class ="intro-link">
-	<a href="https://norealdirection.github.io/about/">Lees meer</a>
+	[**Lees meer**](https://norealdirection.github.io/about/)
 </div>

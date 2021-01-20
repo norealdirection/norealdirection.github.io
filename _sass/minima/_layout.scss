@@ -74,7 +74,7 @@
 		font-style: normal;
 		text-transform: uppercase;
 		margin: 0px;
-		padding: 1px 0;
+		padding: 1px 0px;
 		border-top: 3px solid black;
 		border-bottom: 3px solid black;
 		line-height: $base-line-height;
@@ -195,7 +195,7 @@
 		height: $futura-font-size*1.6;
 		display: inline;
 		margin: 0;
-		transform: translateY(-12px);
+		transform: translateY(-3px);
 		//margin-right: $spacing-unit/5;
 	}
 

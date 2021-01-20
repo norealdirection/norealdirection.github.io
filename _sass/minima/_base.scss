@@ -48,6 +48,8 @@ p {
 	margin-bottom: $spacing-unit/2;
 }
 
+
+
 /**
  * `main` element
  */
@@ -117,10 +119,10 @@ h1, h2, h3, h4, h5, h6 {
 	color: #000000;
 	text-decoration: none;
 
-	//&:visited {
-	//	color: $white-color-tertiary;
-	//	text-decoration: none;
-	//}
+	&:visited {
+		color: $white-color-tertiary;
+		text-decoration: none;
+	}
 
 	//&:hover {
 	//	color: $white-color;

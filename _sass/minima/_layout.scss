@@ -410,39 +410,43 @@ a.post-link {
 	background-color: $text-color-secondary;
 	padding: 2.5%;
 
-	img.svg-logo {
+	.svg-logo {
 		max-width: 100%;
 		margin-bottom: 5%;
 	}
 }
 
-.footer-heading {
-	@include	iih(1);
-}
+//.footer-heading {
+//	@include	iih(1);
+//}
 
 //.social-media-list {
 //		list-style: none;
 //		margin-right: 0;
 //}
 
-.footer-col-wrapper {
-		@include relative-font-size(1);
+//.footer-col-wrapper {
+//		@include relative-font-size(1);
 //		color: $white-color-secondary;
-		@extend	%clearfix;
-}
+//		@extend	%clearfix;
+//}
 
 .footer-social,
 .footer-navigation {
 			width: auto;
 		}
 
-.footer-partners {
-
-}
-
 .partners-svg {
 	height: 4rem;
 	width: auto;
+}
+
+.contact-wrapper {
+		float: right;
+	}
+
+.partners-wrapper {
+	float: left;
 }
 
 //.footer-col {

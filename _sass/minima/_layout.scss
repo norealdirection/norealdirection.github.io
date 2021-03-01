@@ -467,8 +467,12 @@ a.post-link {
 //}
 
 @include	media-query($on-laptop) {
-	footer-social {
+	.contact-wrapper {
+		float: right;
+	}
 
+	.partners {
+		float: left;
 	}
 
 	//.footer-col-1,

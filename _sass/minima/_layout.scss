@@ -418,7 +418,6 @@ a.post-link {
 
 .footer-heading {
 	@include	iih(1);
-	
 }
 
 //.social-media-list {
@@ -437,7 +436,11 @@ a.post-link {
 			width: auto;
 		}
 
-.partners {
+.footer-partners {
+
+}
+
+.partners-svg {
 	height: 2rem;
 }
 
@@ -467,10 +470,6 @@ a.post-link {
 
 	}
 
-	.partners {
-		height: 3rem;
-	}
-
 	//.footer-col-1,
 	//.footer-col-2 {
 	//		width: -webkit-calc(50%-(#{$spacing-unit}/2));
@@ -484,10 +483,6 @@ a.post-link {
 }
 
 @include	media-query($on-palm) {
-
-	.partners {
-		height: 4rem;
-	}
 
 		//.footer-col {
 		//		float: none;
@@ -643,6 +638,7 @@ a.post-link {
 	figure.highlight {
 		text-align: left;
 	}
+
 	figure {
 		width: 100%;
 		text-align: center;

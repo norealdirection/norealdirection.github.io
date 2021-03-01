@@ -464,7 +464,7 @@ a.post-link {
 
 @include	media-query($on-laptop) {
 	footer-social {
-		
+
 	}
 
 	.partners {
@@ -500,7 +500,7 @@ a.post-link {
 	*	Page	content
 	*/
 .page-content {
-		padding: $spacing-unit:	0;
+		padding: $spacing-unit;
 		flex: 1;
 }
 

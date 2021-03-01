@@ -432,7 +432,6 @@ a.post-link {
 .footer-col-wrapper {
 		@include	relative-font-size(1);
 		color: $white-color-secondary;
-		margin-right: -$spacing-unit/2;
 		@extend	%clearfix;
 }
 

@@ -436,17 +436,18 @@ a.post-link {
 			width: auto;
 		}
 
-.partners-svg {
-	height: 4rem;
-	width: auto;
-}
-
 .contact-wrapper {
 		float: right;
 	}
 
 .partners-wrapper {
 	float: left;
+	padding: $spacing-unit/2;
+}
+
+.partners-svg {
+	height: 4rem;
+	width: auto;
 }
 
 //.footer-col {

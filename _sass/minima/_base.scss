@@ -292,13 +292,13 @@ pre {
 		height: 32px;
 		display: inline-block;
 		fill: #{$grey-color};
-		padding-right: 5px;
+		//padding-right: 5px;
 		vertical-align: text-top;
 }
 
 .social-media-list {
 	li + li {
-		padding-top: 5px;
+		padding-top: 0px;
 	}
 }
 

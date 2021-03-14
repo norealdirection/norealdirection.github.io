@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 .post-content a {
 	color: $white-color;
 	text-decoration: underline;
-	text-decoration-thickness: 50%;
+	text-decoration-thickness: 10%;
 
 
 	//&:visited {
@@ -166,10 +166,11 @@ h1, h2, h3, h4, h5, h6 {
 	color: $white-color;
 	text-decoration: none;
 
-	&:visited {
-		color: $white-color-tertiary;
-		text-decoration: none;
-	}
+	//&:visited {
+	//	color: $white-color-tertiary;
+	//	text-decoration: none;
+	//}
+
 	&:hover {
 		color: $white-color;
 	}

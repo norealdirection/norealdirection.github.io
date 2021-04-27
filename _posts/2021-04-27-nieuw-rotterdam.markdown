@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nieuw Rotterdam"
-subtitle: "Over het richtgevende beleidsdocument uit 1987"
+subtitle: "Het plan en de realisatie"
 categories: home blog
 image: images/posts/nieuw-rotterdam/nieuw-rotterdam-01.jpg
 tags: 
@@ -10,7 +10,7 @@ tags:
 
 ---
 
-# Rotterdam is een jonge, dynamische wereldstad die zichzelf in hoog tempo blijft vernieuwen. Aldus de website van Rotterdam Partners. In de stad die toegewijd is aan het nieuwe, volgt het dat men zo nu en dan weer bij nul begint. Zo zijn er door de jaren meerdere officiële plannen geweest voor een Nieuw Rotterdam: in 1919 een grootschalig herstructureringsproject van een collectief van havenbaronnen; in 1946 de moderne wederopbouw van de binnenstad; in 1987 de heruitvinding van Rotterdam aan de vooravond van de post-industriële samenleving. De wederopbouw is inmiddels officieel afgerond verklaard, maar het meest recente nieuwe Rotterdam is nog altijd actueel.
+# In de stad die is toegewijd aan het nieuwe, volgt het dat men zo nu en dan weer bij nul begint. Zo zijn er door de jaren meerdere officiële plannen geweest voor een Nieuw Rotterdam: in 1919 een grootschalig herstructureringsproject van een collectief van havenbaronnen; in 1946 de moderne wederopbouw van de binnenstad; in 1987 de heruitvinding van Rotterdam aan de vooravond van de post-industriële samenleving. De wederopbouw is inmiddels officieel afgerond verklaard, maar het meest recente nieuwe Rotterdam is nog altijd actueel.
 
 Met het richtinggevende beleidsdocument ‘Nieuw Rotterdam: Een opdracht aan alle Rotterdammers’, bereidde de stad zich voor op een nieuwe economie waarin kennis, creativiteit en diensten een centrale rol zouden spelen. Dat dit een grote opgave voor industriestad Rotterdam zou worden stond vast. De éénzijdige economie, de masculine identiteit en een overwegend laaggeschoolde beroepsbevolking waren geen kansrijke eigenschappen. 'De Rotterdamse samenleving en economie zijn verwikkeld in een ingrijpend moderniseringsproces. Het succes uit een recent verleden staat haar hierbij ten dele in de weg’, was de observatie.
 

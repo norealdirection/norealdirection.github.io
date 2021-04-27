@@ -2,7 +2,7 @@
 layout: post
 title: "Rotterdam kijkt in de spiegel"
 subtitle: "Het was een belangrijke dag voor het stedelijk bewustzijn van Rotterdam"
-categories: home blog
+categories: blog
 image: images/posts/bewustzijn/depot.jpg
 tags: 
  - Architectuur 

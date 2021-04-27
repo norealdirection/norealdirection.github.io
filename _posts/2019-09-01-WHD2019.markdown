@@ -2,7 +2,7 @@
 layout: post
 title: "Wereldhavendagen 2019"
 subtitle: "De beste wereldhavendagen tot nu toe"
-categories: home blog
+categories: blog
 image: images/posts/whd2019/whd2019.jpg
 tags: 
  - Wereldhavendagen 

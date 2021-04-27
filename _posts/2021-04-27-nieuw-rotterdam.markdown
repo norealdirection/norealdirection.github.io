@@ -18,7 +18,7 @@ Maar dit zou Rotterdam niet zijn als de problemen niet ook als een kans werd aan
 
 >De stad heeft er in haar indrukwekkende geschiedenis keer op keer blijk van gegeven grote tegenslagen te kunnen overwinnen en diep ingrijpende veranderingen te kunnen verwerken. Het bij de tijd blijven is een wezenskenmerk van de Rotterdammer. ... Het komt er thans op aan die gezamenlijke kracht, nodig voor de vernieuwing van economie en samenleving, opnieuw te mobiliseren. Nieuw Rotterdam, inderdaad, een opgave voor alle Rotterdammers! En dat niet alleen; ook voor allen, die zich 'economisch' met rotterdam verbonden weten.
 
-[![Nieuw Rotterdam: Een opdracht aan alle Rotterdammers](images/posts/nieuw-rotterdam/nieuw-rotterdam-02.jpg)]
+[![Nieuw Rotterdam: Een opdracht aan alle Rotterdammers](images/posts/nieuw-rotterdam/nieuw-rotterdam-04.jpg)]
 
 Volgens socioloog Merijn Oudenampsen was Nieuw Rotterdam 'een ambitieus voorstel voor een marktgerichte heroriëntatie van de Rotterdamse gemeentepolitiek'. Het markeert het begin van een nieuw stedelijk paradigma: de ondernemende stad onder neoliberale condities moet concurreren met andere steden om koopkrachtige bewoners, bedrijven en bezoekers aan zich te binden.
 

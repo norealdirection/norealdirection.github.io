@@ -10,7 +10,7 @@ tags:
 
 ---
 
-# In de stad die is toegewijd aan het nieuwe, volgt het dat men zo nu en dan weer bij nul begint. Zo zijn er door de jaren meerdere officiële plannen geweest voor een _Nieuw Rotterdam_: in 1919 een grootschalig herstructureringsproject van een collectief van havenbaronnen; in 1946 het wederopbouwplan voor een moderne binnenstad; in 1987 de heruitvinding van Rotterdam aan de vooravond van de post-industriële samenleving. De wederopbouw is inmiddels officieel afgerond verklaard, maar het meest recente nieuwe Rotterdam is nog altijd actueel.
+# In de stad die is toegewijd aan het nieuwe, volgt het dat men zo nu en dan weer bij nul begint. Zo zijn er door de jaren meerdere officiële plannen geweest voor een _Nieuw Rotterdam_: in 1919 een grootschalig herstructureringsproject van een collectief van havenbaronnen; in 1946 het wederopbouwplan voor een moderne binnenstad; in 1987 de heruitvinding van Rotterdam aan de vooravond van de post-industriële samenleving. De wederopbouw is inmiddels officieel afgerond verklaard, maar dat meest recente nieuwe Rotterdam is nog altijd actueel.
 
 Met het richtinggevende beleidsdocument _Nieuw Rotterdam: Een opdracht aan alle Rotterdammers_, bereidde de stad zich voor op een nieuwe economie waarin kennis, creativiteit en diensten centraal zouden staan. Dat dit een grote opgave voor industriestad Rotterdam zou worden stond vast. De éénzijdige economie, de masculine identiteit en een overwegend laaggeschoolde beroepsbevolking waren allerminst kansrijke eigenschappen. 'De Rotterdamse samenleving en economie zijn verwikkeld in een ingrijpend moderniseringsproces. Het succes uit een recent verleden staat haar hierbij ten dele in de weg’, was de observatie.
 

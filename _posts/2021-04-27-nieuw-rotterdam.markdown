@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Nieuw Rotterdam"
+subtitle: "Over het richtgevende beleidsdocument uit 1987"
+categories: home blog
+image: images/posts/nieuw-rotterdam/nieuw-rotterdam-01.jpg
+tags: 
+ - Architectuur 
+ - Stadsmarketing
+
+---
+
+# Rotterdam is een jonge, dynamische wereldstad die zichzelf in hoog tempo blijft vernieuwen. Aldus de website van Rotterdam Partners. In de stad die toegewijd is aan het nieuwe, volgt het dat men zo nu en dan weer bij nul begint. Zo zijn er door de jaren meerdere officiële plannen geweest voor een Nieuw Rotterdam: in 1919 een grootschalig herstructureringsproject van een collectief van havenbaronnen; in 1946 de moderne wederopbouw van de binnenstad; in 1987 de heruitvinding van Rotterdam aan de vooravond van de post-industriële samenleving. De wederopbouw is inmiddels officieel afgerond verklaard, maar het meest recente nieuwe Rotterdam is nog altijd actueel.
+
+Met het richtinggevende beleidsdocument ‘Nieuw Rotterdam: Een opdracht aan alle Rotterdammers’, bereidde de stad zich voor op een nieuwe economie waarin kennis, creativiteit en diensten een centrale rol zouden spelen. Dat dit een grote opgave voor industriestad Rotterdam zou worden stond vast. De éénzijdige economie, de masculine identiteit en een overwegend laaggeschoolde beroepsbevolking waren geen kansrijke eigenschappen. 'De Rotterdamse samenleving en economie zijn verwikkeld in een ingrijpend moderniseringsproces. Het succes uit een recent verleden staat haar hierbij ten dele in de weg’, was de observatie.
+
+Maar dit zou Rotterdam niet zijn als het probleem niet ook als een kans werd aangevat:
+
+>De stad heeft er in haar indrukwekkende geschiedenis keer op keer blijk van gegeven grote tegenslagen te kunnen overwinnen en diep ingrijpende veranderingen te kunnen verwerken. Het bij de tijd blijven is een wezenskenmerk van de Rotterdammer. ... Het komt er thans op aan die gezamenlijke kracht, nodig voor de vernieuwing van economie en samenleving, opnieuw te mobiliseren. Nieuw Rotterdam, inderdaad, een opgave voor alle Rotterdammers! En dat niet alleen; ook voor allen, die zich 'economisch' met rotterdam verbonden weten.
+
+Volgens socioloog Merijn Oudenampsen was Nieuw Rotterdam 'een ambitieus voorstel voor een marktgerichte heroriëntatie van de Rotterdamse gemeentepolitiek'. Het markeert het begin van een nieuw stedelijk paradigma; van de ondernemende stad, die onder neoliberale condities moest gaan concurreren met andere steden voor koopkrachtige bewoners, bedrijven en bezoekers. 
+
+In Nieuw Rotterdam vinden we ook het voorstel van een publiek-private organisatie die als een ‘buitenboortmotor’ de stedelijke economie moest stimuleren. Die organisatie zou later de naam Rotterdam Partners krijgen. En ook het imago van de stad moest op de schop. 'Het beeld van het nieuwe, dynamische en strategisch opererende Rotterdam moet ook tot uitdrukking komen in een nieuwe huisstijl'. In hetzelfde jaar berichtte hettijdschrift Ach Lieve Tijd: ‘Met het motto “Rotterdam maakt het!” moet het nòg beter worden’. Het ligt niet ver af van het hedendaagse ‘Rotterdam. Make It Happen.’ Ook dat is een opdracht aan alle Rotterdammers.
+
+Een van de aandachtspunten in het document was het probleem van Rotterdams relatief grote arbeidersklasse. De overwegend laagopgeleide beroepsbevolking, ooit de kracht van de oude havenstad, sloot niet aan op de werkgelegenheid van een nieuwe economie. Zo ontstond er naast fysieke en economische vernieuwing de behoefte aan sociale vernieuwing. Het begrip was een Rotterdamse uitvinding. In dit nieuwe stadium in de ontwikkeling van de stad werd de bevolking geproblematiseerd om er een maakbaar project van te maken.
+
+Uiteindelijk is besloten om de stedelijke problematiek op te lossen door in te grijpen in de woningmarkt, om de wijken ‘in balans’ te brengen en zo aantrekkelijker te maken voor hogere inkomens. Sinds 2011 benadert de Rotterdam Wet het probleem vanaf de vraagkant. De Woonvisie 2030 benadert het vanaf de aanbodkant. Ook de nationale politiek heeft een groot aandeel in dit beleid.
+
+Het focuspunt van de Woonvisie 2030 is dat er in Rotterdam te veel goedkope woningen zouden zijn, zelfs nadat er in de voorgaande 30 jaar al 20.000 corporatiewoningen gesloopt waren. De diagnose is gesteld op basis van de situatie in andere Nederlandse steden. Met het belangrijke verschil dat Rotterdam gemakshalve ook particuliere koopwoningen tot de goedkope voorraad rekent. De eerste Woonvisie rekent woningen met een WOZ-waarde tot … tot de goedkope voorraad.
+
+In de oorspronkelijke Woonvisie uit 2017 was het plan om 20.000 woningen aan de zogenoemde 'goedkope voorraad' te onttrekken. Ondertussen moesten er 30.000 woningen bij worden gebouwd in de verhouding: 20% sociaal, 30% midden, 30% hoog en 20% top. Opvallend is dat de helft van de woningen wordt gebouwd voor bovengemiddelde inkomens, terwijl er een fors aantal goedkope woningen zullen verdwijnen. Door de getallen in een lijngrafiek te zetten wordt duidelijk wat er hier gebeurt. Het snijpunt van het aantal goedkope en de (middel)dure woningen signaleert een omslagpunt. Markeert dit het moment van de realisatie van Nieuw Rotterdam?
+
+Aan de hand van gegevens uit de oorspronkelijke Woonvisie kan het omslagpunt geïnterpoleerd worden rond het jaar 2024, maar de bijkomende wooncrisis (en het succes van een grootschalig gecoördineerde stadsmarketingcampagne) trekt dit moment naar voren. Inmiddels valt het grootste deel van de particuliere huur- en koopwoningen die voorheen tot de goedkope voorraad werden gerekend in de duurdere categorie. Wie denkt dat dit het college op andere ideeën zet heeft het mis. Het brengt immers alleen maar vaart in de realisatie van Nieuw Rotterdam.
+
+Herstructureringsplannen worden gebaseerd op prognoses over hoe vraag en aanbod zich op de woningmarkt ontwikkelen. Betekenen de nieuwe ontwikkelingen dat de Woonvisie van tafel kan? Niet als het aan wethouder Bas Kurvers en zijn departement ligt. Zij hebben de truc bedacht om het grensbedrag van de goedkope voorraad omhoog te zetten, waardoor het aantal goedkope woningen schijnbaar hoog gehouden wordt. De WOZ-waarde van een goedkope woning is bij de update in 2019 verhoogd naar €... .  De sloopplannen zijn daarmee opnieuw van legitimatie voorzien. Maar het heeft ook een ander, veelzeggend effect. Doordat het omslagpunt tussen goedkoop en (middel)duur hierdoor vooruit schuift, schuift ook Nieuw Rotterdam vooruit.

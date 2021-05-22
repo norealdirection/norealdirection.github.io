@@ -10,7 +10,7 @@ subtitle: |
 
 **MAKE IT HAPPEN.** is de slogan en het merk van Rotterdam. Deze uitspraak is er op gericht de stad en haar omgeving te veranderen. Rotterdam neemt hiermee een lokale reputatie voor daadkracht en ondernemerschap en verheft die tot stedelijke identiteit. Maar dit is maar de helft van het verhaal. Geen vernieuwing zonder vernieling. Geen winnaars zonder verliezers. De slogan van Rotterdam is weliswaar ontegenzeggelijk, want de mens is _made to make it happen_, maar ook incompleet; het ontbreekt ‘m aan reflectie.
 
-**IS IT HAPPENING?** is het merk van de stedelijke onzekerheid en het ont-doen. Dat die onzekerheid groeiende is impliceert de onmogelijkheid om de stad te maken. Daarom vertegenwoordigt deze vraag ook een noodzakelijk niet-zeker-zijn. Een beetje stad beschikt over een reflexief vermogen en reflectie vereist dat je alert bent voor nieuwe gebeurtenissen; dat je niet altijd weet wat er moet gebeuren. Het houdt ruimte open voor de vraag: _is it happening?_
+**IS IT HAPPENING?** is het merk van de stedelijke onzekerheid en het ont-doen. Dat die onzekerheid groeiende is impliceert een onmogelijkheid om de stad te maken. Daarom vertegenwoordigt deze vraag ook een noodzakelijk niet-zeker-zijn. Een beetje stad beschikt over een reflexief vermogen en reflectie vereist dat je alert bent voor nieuwe gebeurtenissen; dat je niet altijd weet wat er moet gebeuren. Het houdt ruimte open voor de vraag: _is it happening?
 
 <div class ="intro">
 	<a href="https://norealdirection.github.io/about/" class="intro-link"><p>Lees meer.</p></a>

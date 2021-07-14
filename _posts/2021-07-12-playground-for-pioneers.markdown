@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playground For Pioneers"
-subtitle: "In Rotterdam heb je de ruimte zeggen ze, maar die belofte heeft alleen betekenis zolang die ruimte in essentie leeg blijft. Een verhaal over ruimte, Rem Koolhaas en het Museumpark."
+subtitle: "In Rotterdam heb je de ruimte zeggen ze, maar die belofte heeft alleen betekenis zolang die ruimte in essentie leeg blijft."
 categories: home blog
 image: images/posts/playground-for-pioneers/playground-01.jpg
 tags:

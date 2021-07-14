@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playground For Pioneers"
-subtitle: "Een verhaal over ruimte, Rem Koolhaas en het Museumpark."
+subtitle: "In Rotterdam heb je de ruimte zeggen ze, maar de plek die symbool staat voor die ruimte krijgt straks een aangeharkte invulling. Het thema van de ruimte heeft alleen betekenis zolang die ruimte in essentie leeg blijft. Is It Happening? neemt het op voor de leegte.<br>Een verhaal over ruimte, Rem Koolhaas en het Museumpark."
 categories: home blog
 image: images/posts/playground-for-pioneers/playground-01.jpg
 tags:

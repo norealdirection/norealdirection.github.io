@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De Hypocriete Stad"
-subtitle: "Een kat in het nauw maakt rare sprongen"
+subtitle: "Rotterdam is inclusief! In het Eurovision Songfestival vindt de stad de gelegenheid om dat tentoon te stellen. Of is het een kwestie van opmaak? City dressing?"
 categories: blog home
 image: images/posts/esc-2021/esc-2021-01.jpg
 tags: 

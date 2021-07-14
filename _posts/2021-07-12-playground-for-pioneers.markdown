@@ -3,7 +3,7 @@ layout: post
 title: "Playground For Pioneers"
 subtitle: "Een verhaal over ruimte, Rem Koolhaas en het Museumpark."
 categories: home blog
-image: images/posts/playground/playground-01.jpg
+image: images/posts/playground-for-pioneers/playground-01.jpg
 tags:
  - Architectuur 
  - Stadsmarketing

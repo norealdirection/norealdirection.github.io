@@ -4,9 +4,6 @@
 	<!-- <h1>
 		<a class="site-title iih" rel="author" href="{{ "/" | relative_url }}">{{ site.long-title | escape }}</a>
 	</h1> -->
-	<a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-		{% include svg-logo.html %}
-	</a>
 
 
 	{%- if page_paths -%}
@@ -26,3 +23,7 @@
 		</nav>
 	{%- endif -%}
 </header>
+
+<a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+	{% include svg-logo.html %}
+</a>

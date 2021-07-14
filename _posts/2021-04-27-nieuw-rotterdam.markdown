@@ -2,7 +2,7 @@
 layout: post
 title: "Nieuw Rotterdam"
 subtitle: "Het plan en de realisatie"
-categories: home blog
+categories: blog
 image: images/posts/nieuw-rotterdam/nieuw-rotterdam-01.jpg
 tags: 
  - Architectuur 

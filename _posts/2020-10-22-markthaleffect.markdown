@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Het Markthal Effect"
-subtitle: "Winy Maas beklaagd zich over de commercialisering van de Markthal. Zou hij zich ook zorgen maken om de commercialisering van Rotterdam?"
+subtitle: "Winy Maas beklaagde zich over de commercialisering van de Markthal. Zou hij zich ook zorgen maken om de commercialisering van Rotterdam?"
 categories: home blog
 image: images/posts/markthal-effect/markthal-01.jpg
 tags: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rotterdam kijkt in de spiegel"
+title: "Rotterdam in de spiegel"
 subtitle: "Het was een belangrijke dag voor het stedelijk bewustzijn van Rotterdam"
 categories: blog home
 image: images/posts/bewustzijn/depot.jpg

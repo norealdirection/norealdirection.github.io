@@ -1,19 +1,16 @@
 ---
 layout: post
-title: "Save Museumpark!"
-subtitle: "Hier ontstaat het al, hier gebeurt het al."
+title: "Sloop Tweebosbuurt"
+subtitle: "Welkom op de frontlinie van het gentrificatiebeleid van Rotterdam."
 categories: home blog
-image: images/posts/save-museumpark/IIH07-banner-2.jpg
+image: images/posts/sloop-tweebosbuurt/IIH06-banner-1.jpg
 tags:
- - Architectuur 
- - Stadsmarketing
- - Museumpark
- - Depot
+ - Tweebosbuurt
+ - Gentrificatie
+ - Happening
 
 ---
 
-# Welkom, je bent in de leegte van onze stad.
+# Welkom op de frontlinie van het gentrificatiebeleid van Rotterdam.
 
-Wil je Rotterdam maximaal ervaren? Dan zit je op deze plek helemaal goed. Geniet van de ruimte. Zolang het kan!
-
-Deze plek is geliefd bij skaters en andere Rotterdammers als uitgestrekte, lege, geasfalteerde vlakte. Rotterdamser dan hier krijg je het niet. Maar de gemeente heeft het plan om het Museumpark in te vullen met een onskatebare Urban Living Room. Het moet hier gezelliger worden, dan komen de mensen vanzelf hun geld besteden!
+...

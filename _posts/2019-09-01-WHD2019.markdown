@@ -10,22 +10,22 @@ tags:
  - Klimaatverandering
 
 ---
-# Ter gelegenheid van de Wereldhavendagen en in solidariteit met de verschillende Rotterdamse klimaat bewegingen, heeft **ROTTERDAM. IS IT HAPPENING?** een zevental posters ontworpen. De posters zijn vrij te downloaden en wij moedigen iedereen aan deze op legale wijze te verspreiden. Al zijn gezien het gering aantal vrije plakplaatsen in Rotterdam de mogelijkheden daartoe beperkt.
+# Op 28 juli, op dezelfde dag dat het Rotterdamse hitterecord werd verbroken, sloot Het Havenbedrijf haar meest succesvolle half jaar ooit af. Twee records op één dag: van 37,9ºC en 232,2 miljoen ton goederen in 2018 naar 38,9ºC en 240,7 miljoen ton in 2019, waarvan 22% ruwe olie. Het verband tussen deze getallen moge duidelijk zijn: de fossiele industrie, waar de Rotterdamse haven een belangrijke schakel in is, ligt ten grondslag aan het veranderende klimaat.
 
-<div class="poster_wrapper">
-  <img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_01_s.jpg" class="tile_AX tile_white">
-  <img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_02_s.jpg" class="tile_AX tile_white">
-  <img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_03_s.jpg" class="tile_AX tile_white">
-  <img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_04_s.jpg" class="tile_AX tile_white">
-  <img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_05_s.jpg" class="tile_AX tile_white">
-  <img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_06_s.jpg" class="tile_AX tile_white">
-  <img src="https://isithappening.github.io/happenings/iih03/thumbnails/IIH03_07_s.jpg" class="tile_AX tile_white">
-</div>
+Ironisch genoeg waren die dag vijf regionale stalen bruggen door de hitte dusdanig uitgezet dat ze niet meer functioneerden, waardoor de gevierde groei op dat moment voor eventjes werd geremd. Eenzelfde ironie plaagt de binnenvaart al langer. Door het lage waterpeil is men vandaag gedwongen om met kleinere ladingen te varen. Dit zijn vrij letterlijk de ‘grenzen van de groei’, zoals die in 1972 al werden voorzien.
 
-Sinds 2014 is de slogan van Rotterdam **MAKE IT HAPPEN.**, geïnitieerd door de ‘merk-alliantie’ tussen gemeente, haven, universiteit en stadspromotor. Met deze marketingcampagne werkt de stad actief aan haar transformatie–in fysiek, sociaal en vooral economisch opzicht. De slogan is ook ingezet ter promotie van de Wereldhavendagen: een jaarlijks festijn ter viering van de Rotterdamse haven. Maar valt er werkelijk wat te vieren voor de grootste CO2 uitstoter van Nederland in het licht van de huidige klimaatcrisis?
+Je zou verwachten dat met dit soort concrete gevallen van zelfsabotage ook Het Havenbedrijf zich achter de oren begint te krabben. En wellicht is dat voor sommigen inderdaad het geval. Toch lukt het maar niet om het roer om te gooien. Men blijft zich verkijken op het financiële plaatje of het probleem verschuiven, dan wel voor zich uitschuiven. Wanneer het klimaatprobleem wel serieus genomen wordt, wordt het geïnterpreteerd als een technisch probleem dat vraagt om technologische ‘innovaties’, zoals biobrandstoffen of Carbon Cap- ture Storage, welke nooit meer zullen zijn dan halve maatregelen.
 
-Concrete gevolgen op korte en lange termijn van die crisis zijn de stijgende zeespiegel, verlies van biodiversiteit, voedsel tekorten, dodelijke hitte-golven en droogtes, vernietegende stormen en woedende bosbranden. Het zijn effecten die nu al in toenemende mate ter wereld gebeuren. Dit suggereert een andere interpretatie van de leus **MAKE IT HAPPEN.** Namelijk als een onbedoeld *veroorzaken*. Wat als deze dominante mentaliteit, zo gefixeerd op economische groei, ten grondslag ligt aan de klimaatcrisis? Wat als het stedelijke beleid van Rotterdam juist verder bijdraagt aan het probleem?
+**Make It Happen.**, roept men volhardend in Rotterdam. Onheilspellend, zou je kunnen zeggen, want wat als juist deze dominante mentaliteit ten grondslag ligt aan het klimaatprobleem? Gaat technologie de klimaatcrisis oplossen of juist vergroten? Vooruitgang en verval zijn twee kanten van dezelfde medaille. Of, zoals de filosoof Paul Virilio ooit stelde: de ontdekking van het schip was onbedoeld ook de ontdekking van schipbreuk en het scheepswrak. Iedere technologie draagt z’n eigen negatief met zich mee.
+
+Analoog hieraan kan men stellen dat de ontdekking van de verbrandingsmotor de ongelukkige ontdekking van het _runaway_ broeikas-effect was. En de toepassing daarvan op grote schaal, de ontdekking van de industriële samenleving, welke inmiddels tot monsterlijke proporties is gegroeid, was de ontdekking van klimaatontwrichting, het ultieme ongeluk, waarvan we het begin vandaag meemaken. Voor wie het alweer was vergeten: het was de warmste juli maand ooit gemeten. Zowel nationaal als mondiaal.
+
+De groeiende fossiele industrie _is_ de stijgende temperatuur _is_ de stijgende zeespiegel. Toch wordt dit niet of zelden erkend, getuige het feit dat men pronkt met de groei van Nederlands grootste facilitator van de fossiele industrie. Voor wie zich bewust is van de urgentie van het probleem is het haast alsof men de opwarming van de aarde viert.
+
+De situatie is cynisch. Het Havenbedrijf laat weten van plan te zijn haar winst grotendeels te investeren in infrastructuur. Nieuwe bruggen, diepere havens en kanalen, een nóg grotere Maasvlakte. Allemaal om volgend jaar nog hogere getallen te kunnen vieren. 
+
+**Climate crisis. Make it happen.**
 
 [![Wereldhavendagen 2019](images/posts/whd2019/whd2019-03.jpg)]
 
-Dit project is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).
+Deze gebeurtenis is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).

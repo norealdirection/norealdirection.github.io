@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Is It Happening?
+title: ?
 image: images/pages/bouwkraan.jpg
 permalink: /about/
 order: 10

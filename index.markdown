@@ -13,5 +13,5 @@ subtitle: |
 **IS IT HAPPENING?** is het stadsmerk van de onzekerheid. Dat die onzekerheid groeiende is impliceert een toenemende onmogelijkheid om de stad te maken. Onzekerheid is echter ook een kwestie van twijfel; een niet-zeker-zijn. Een beetje stad beschikt over een reflexief vermogen en reflectie vereist dat je alert bent voor nieuwe gebeurtenissen; dat je niet altijd weet wat er moet gebeuren. Het houdt ruimte open voor de vraag: _is it happening?_
 
 <div class ="intro">
-	<a href="https://norealdirection.github.io/about/" class="intro-link"><p>Lees meer.</p></a>
+	<a href="https://norealdirection.github.io/about/" class="intro-link"><p>Lees meer</p></a>
 </div>

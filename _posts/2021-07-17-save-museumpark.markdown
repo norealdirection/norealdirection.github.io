@@ -3,7 +3,7 @@ layout: post
 title: "Save Museumpark!"
 subtitle: "Hier ontstaat het al, hier gebeurt het al."
 categories: home blog
-image: images/posts/save-museumpark/iih07-banner-2.jpg
+image: images/posts/save-museumpark/IIH07-banner-2.jpg
 tags:
  - Architectuur 
  - Stadsmarketing

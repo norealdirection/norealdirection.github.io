@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Happenings
+title: Archief
 image: images/pages/stickers.jpg
-permalink: /branding-toolkit/
+permalink: /archief/
 order: 2
 backgroundcolor: '#2bb04f'
 textcolor: '#ffffff'
 ---
-
-Coming soon

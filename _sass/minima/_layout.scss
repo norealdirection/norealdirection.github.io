@@ -68,6 +68,11 @@
 		height: auto;
 		display: inline-block;
   		margin: 12px 8px;
+
+		@include	media-query($on-laptop) {
+			width: calc(100% - 16px);
+		}
+
 	}
 
 	.page-link {
@@ -78,8 +83,12 @@
 		text-transform: uppercase;
 		margin: 0px;
 		padding: 1px 0px;
-		border-top: 3px solid black;
 		border-bottom: 3px solid black;
+		border-top: 3px solid black;
+
+		@include	media-query($on-laptop) {
+			border-top: 0 none transparent;
+		}
 		line-height: $base-line-height;
 	}
 
@@ -131,7 +140,7 @@
 			position: fixed;
 
 			top: 0;
-			padding-top: 60px;
+			padding-top: 90px;
 			left: 0;
 
 			width: 100%;

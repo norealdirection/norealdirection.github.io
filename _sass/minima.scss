@@ -73,13 +73,16 @@ $small-font-size:  $base-font-size * 0.875 !default;
 // Import partials.
 @import
 	"minima/base",
-	"minima/layout"
+	"minima/layout",
+	"minima/home",
+	"minima/archief"
 ;
 
 .swiper-container {
 	height: 680px;
 	position: relative;
-	
+	overflow: hidden;
+
 	.swiper-wrapper {
 		.swiper-slide {
 			background-size: cover;

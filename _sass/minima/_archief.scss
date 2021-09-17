@@ -1,0 +1,68 @@
+.archief-header {
+	height: 184px;
+	width: 100%;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #2bb04f;
+	backdrop-filter: blur(2px);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+
+	h1 {
+		margin: 0;
+		background-color: #2bb04f;
+		color: #fff;
+		text-transform: uppercase;
+	    font: 600 37.5px/1.33 "Futura";
+		padding-top: 6px;
+		padding-bottom: 6px;
+		border-top: 6px #fff solid;
+		border-bottom: 6px #fff solid;
+		bottom: auto;
+		position: static;
+	}
+
+	@include	media-query($on-laptop) {
+		height: 320px;
+		h1 {
+			position: absolute;
+			bottom: 45px;
+		}
+	}
+}
+
+.pagination {
+	width: 100%;
+	text-align: center;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	background-color: #2bb04f;
+
+	.button {
+		width: 32px;
+		height: 32px;
+		color: #fff;
+		display: inline-block;
+		padding: 0;
+		// background-color: #fff;
+		line-height: 32px;
+		text-decoration: none;
+		font-family: "Futura";
+
+		&.__isDisabled {
+			background-color: #2bb04f;
+			color: #2bb04f;
+		}
+	}
+	.page_number {
+		display: inline-block;
+		margin-left: 16px;
+		margin-right: 16px;
+		line-height: 32px;
+	}
+}

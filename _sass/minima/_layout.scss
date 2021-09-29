@@ -249,6 +249,7 @@ section.post {
 		position: relative;
 		height: $spacing-unit*15;
 		width: 50%;
+		transform-origin: 50% 100%;
 	}
 
 	.post-info  {

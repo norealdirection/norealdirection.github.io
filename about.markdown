@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: images/pages/bouwkraan.jpg
+image: images/pages/Hoogstraat.jpg
 permalink: /about/
 order: 10
 backgroundcolor: '#2bb04f'

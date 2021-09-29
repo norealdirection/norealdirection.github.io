@@ -26,7 +26,7 @@
 .site-title {
 	display: inline-block;
 	position: absolute;
-	z-index: 30;
+	z-index: 29;
 	margin: 18px;
 
 	img.svg-logo {
@@ -37,8 +37,10 @@
 
 .site-nav {
 	position: absolute;
-	top: $spacing-unit*.75;
-	right: $spacing-unit*.75;
+	top: 0;
+	right: 0;
+	padding-top: $spacing-unit*.75;
+	padding-right: $spacing-unit*.75;
 	float: right;
 
 	// line-height: $base-line-height	*	$base-font-size	*	2.25;
@@ -66,6 +68,11 @@
 		height: auto;
 		display: inline-block;
   		margin: 12px 8px;
+
+		@include	media-query($on-laptop) {
+			width: calc(100% - 16px);
+		}
+
 	}
 
 	.page-link {
@@ -76,8 +83,12 @@
 		text-transform: uppercase;
 		margin: 0px;
 		padding: 1px 0px;
-		border-top: 3px solid black;
 		border-bottom: 3px solid black;
+		border-top: 3px solid black;
+
+		@include	media-query($on-laptop) {
+			border-top: 0 none transparent;
+		}
 		line-height: $base-line-height;
 	}
 
@@ -129,7 +140,7 @@
 			position: fixed;
 
 			top: 0;
-			padding-top: $spacing-unit * 5;
+			padding-top: 90px;
 			left: 0;
 
 			width: 100%;
@@ -137,7 +148,8 @@
 
 			padding-bottom: $spacing-unit/2;
 
-			background: $text-color;
+			background: rgba(0,0,0,.72);
+		    backdrop-filter: blur(2px);
 			// border: $text-color;
 			// border-radius: $spacing-unit/5;
 			text-align: left;
@@ -366,7 +378,7 @@ a.post-link {
 	h3 {
 		display: inline-block;
 		font: $futura-font-weight #{$futura-font-size*1.5}/#{$futura-line-height} $futura-font-family;
-		text-transform: uppercase;	
+		text-transform: uppercase;
 		margin: 0 auto $spacing-unit;
 
 		// top and bottom strokes
@@ -382,8 +394,8 @@ a.post-link {
 		column-fill: balance;
 		// padding: $spacing-unit/2 0;
 	}
-	
-	figure { 
+
+	figure {
 		background-color: $white-color;
 		padding: $spacing-unit/2;
 		margin: $spacing-unit 0;
@@ -428,11 +440,18 @@ a.post-link {
 
 .partners-wrapper {
 	float: left;
-	padding: 0 $spacing-unit;
+	// padding: 0 $spacing-unit;
+	padding: 0 18px;
+	@include	media-query($on-laptop) {
+		padding: 0 8px;
+	}
 }
 
 .partners-svg {
 	height: 72px;
+	@include	media-query($on-laptop) {
+		height: 36px;
+	}
 }
 
 .social-svg {

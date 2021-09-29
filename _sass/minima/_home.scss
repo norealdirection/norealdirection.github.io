@@ -1,0 +1,29 @@
+.button-section {
+	width: 100%;
+	background-color: #2bb04f;
+	text-align: center;
+	// height: 160px;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	.button {
+		// background-color: #eee;
+		color: #fff;
+		text-decoration: none;
+		font-family: "Futura";
+		font-size: 1.5rem;
+		padding: 24px 16px;
+		width: 100%;
+		position: relative;
+		transition: .16s linear all;
+
+
+		&:hover, &:focus {
+			box-shadow: 0px 2px 2px rgba(0,0,0,.16);
+			text-shadow: 1px 1px 1px rgba(0,0,0,.16);
+		}
+	}
+}

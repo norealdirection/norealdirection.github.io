@@ -17,6 +17,11 @@
 		// background-color: $text-color;
 }
 
+.site-header .img {
+
+		transform-origin: 50% 100%;
+	}
+
 [data-scrolldir="up"] .site-header {
 }
 

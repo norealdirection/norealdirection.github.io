@@ -19,7 +19,7 @@
 
 .site-header .img {
 
-		transform-origin: 50% 100%;
+		transform-origin: 50% 0%;
 	}
 
 [data-scrolldir="up"] .site-header {
@@ -572,6 +572,10 @@ a.post-link {
     };
 
 }
+
+.post-hero {
+
+
 
 .post-title {
 	// layout

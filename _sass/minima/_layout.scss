@@ -279,10 +279,10 @@ section.post {
 
 	.post-image {
 		float: right;
-		background-position: center;
+		//background-position: center;
+		//background-position: bottom center;
 		background-size: cover;
 		font-size: 0;
-		background-position: bottom center;
 
 	}
 
@@ -523,7 +523,6 @@ a.post-link {
 
 .post-link {
 		display: block;
-		background-position: bottom center;
 		@include	relative-font-size(1.5);
 }
 

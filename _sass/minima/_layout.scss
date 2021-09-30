@@ -17,11 +17,10 @@
 		// background-color: $text-color;
 }
 
-.post-hero .img {
+.post-hero {
 
-	vertical-align: baseline;
-
-}
+		background-position: bottom center;
+	}
 
 [data-scrolldir="up"] .site-header {
 }
@@ -288,6 +287,7 @@ section.post {
 		background-position: center;
 		background-size: cover;
 		font-size: 0;
+		background-position: bottom center;
 
 	}
 
@@ -573,9 +573,6 @@ a.post-link {
     };
 
 }
-
-.post-hero {}
-
 
 
 .post-title {

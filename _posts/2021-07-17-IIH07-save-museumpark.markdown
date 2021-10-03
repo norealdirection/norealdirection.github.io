@@ -14,7 +14,7 @@ tags:
 
 We kunnen ons de **MAKE IT HAPPEN.** teksten al voor ons zien. **HIER ONTSTAAT HET, HIER GEBEURT HET.** Maar deze transformatie kan alleen maar af doen aan het plein zoals het ontworpen is. Hier ontstaat het al en hier gebeurt het al! Leegte is immers een voorwaarde voor vernieuwing. Hier is een plek die ruimte open houdt voor de vraag: **IS IT HAPPENING?**
 
-Lees ook het artikel [_Room for initiative_](https://www.rotterdamisithappening.nl/home/blog/2021/07/17/IIH07.html).
+Lees ook het artikel [_Playground for pioneers_](https://www.rotterdamisithappening.nl/home/blog/2021/07/17/IIH07.html).
 <br>
 <br>
 

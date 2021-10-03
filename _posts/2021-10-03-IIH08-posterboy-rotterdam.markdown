@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Woonopstand"
-subtitle: "Onze postercampagne voor de posterboy van de wooncrisis."
+title: "Posterboy Rotterdam"
+subtitle: "Postercampagne ter gelegenheid van de woonopstand."
 categories: home blog
 image: images/posts/IIH08/Kurvers-blij.jpg
 tags:

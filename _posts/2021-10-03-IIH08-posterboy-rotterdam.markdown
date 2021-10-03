@@ -12,6 +12,8 @@ tags:
 
 ---
 
+#Rotterdam staat in heel Nederland bekend als de _posterboy_ van de wooncrisis. Ter gelegenheid van de woonopstand heeft **ROTTERDAM. IS IT HAPPENING?** daarom een set posters met iconen van de wooncrisis samengesteld, geïnspireerd op de [actiepunten](https://woonmanifest.nl/) van de Woonopstand. De [Woonopstand](https://www.woonopstand.nl) wordt georganiseerd door een coalitie van partijen en vindt plaats op zondag 17 oktober, 14:00 uur op het Afrikaanderplein in Rotterdam.
+
 <article class="post" style="
 	{%- if page.backgroundcolor -%}
 		background-color:{{ page.backgroundcolor }};
@@ -25,7 +27,7 @@ tags:
 		<div class="wrapper">
 			<div class="post-content">
 				<h1 class="poster-downloads-title">Download posters</h1>
-				<p class="poster-downloads-text">Voor de woonopstand campagne stellen we een aantal posters voor download beschikbaar. Klik op de poster om ze als high-res PDF te downloaden, <a href="/images/pages/branding-toolkit/downloads/woonopstand-posters.zip">of download ze gewoon allemaal</a>.</p>
+				<p class="poster-downloads-text">De posters kunnen zo groot als A0-formaat geprint worden. Klik op de poster om ze als high-res PDF te downloaden, <a href="/images/pages/branding-toolkit/downloads/woonopstand-posters.zip">of download ze gewoon allemaal</a>.</p>
 				<div class="posters-container">
 					<a href="/images/pages/branding-toolkit/downloads/IIH08-posters-Penthouse bewoners.pdf" download="Penthouse-bewoners.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/pages/branding-toolkit/IIH08-posters-Penthouse bewoners.jpg" alt="Penthouse bewoners">

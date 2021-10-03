@@ -3,7 +3,7 @@ layout: post
 title: "Posterboy Rotterdam"
 subtitle: "Postercampagne ter gelegenheid van de woonopstand."
 categories: home blog
-image: images/posts/IIH08/Kurvers-blij.jpg
+image: images/posts/IIH08/posters-collage.jpg
 tags:
  - Happening
  - Woonopstand

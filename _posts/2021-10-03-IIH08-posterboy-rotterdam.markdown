@@ -12,40 +12,6 @@ tags:
 
 ---
 
-<article class="post" style="
-	{%- if page.backgroundcolor -%}
-		background-color:{{ page.backgroundcolor }};
-	{%- endif -%}
-	{%- if page.textcolor -%}
-		color:{{ page.textcolor }};
-	{%- endif -%}
-	">
-
-	<header class="post-header">
-		{%- if page.image -%}
-			<div class="post-hero" style="background-image:url('{{ page.image | relative_url }}');">
-		{%- else -%}
-			<div class="post-hero">
-		{%- endif -%}
-				<div class="wrapper" style="
-						{%- if page.textcolor -%}
-							color:{{ page.textcolor }};
-						{%- endif -%}">
-					<h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-				</div>
-
-				{%- if page.imagecredits -%}
-				<span class="post-hero-credits">Image credits: {{ page.image-credits }}</span>
-				{%- endif -%}
-		</div>
-	</header>
-
-	<div class="wrapper">
-		<div class="post-content">
-			{{ content }}
-		</div>
-	</div>
-
 	<div class="poster-downloads">
 		<div class="wrapper">
 			<div class="post-content">
@@ -73,5 +39,3 @@ tags:
 		</div>
 
 	</div>
-
-</article>

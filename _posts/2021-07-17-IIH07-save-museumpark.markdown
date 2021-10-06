@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Save Museumpark!"
-subtitle: "Het ontstaat hier al, het gebeurt hier al."
+subtitle: "Hier ontstaat het al, hier gebeurt het al."
 categories: home blog
 image: images/posts/IIH07/IIH07-banner-2.jpg
 tags:
@@ -12,7 +12,7 @@ tags:
 
 # Liefhebbers van het geasfalteerde Museumpark plein, aangevoerd door een coaltie van skateboarders, rollerskaters, longboarders, etc., hebben zich verenigd in de actiegroep Save Museumpark! Waarvan moet Museumpark gered worden? Na de komst van het Depotgebouw moet ook het geasfalteerde plein in het Museumpark op de schop. Er ligt een plan om het plein te vergroenen, met meer fonteinen en een onskatebare ondergrond. 
 
-We kunnen ons de **MAKE IT HAPPEN.** teksten al voor ons zien. **HIER ONTSTAAT HET, HIER GEBEURT HET.** Maar deze transformatie kan alleen maar af doen aan het plein zoals het ontworpen is. Hier ontstaat het al en hier gebeurt het al! Leegte is immers een voorwaarde voor vernieuwing. Hier is een plek die ruimte open houdt voor de vraag: **IS IT HAPPENING?**
+We kunnen ons de **MAKE IT HAPPEN.** teksten al voor ons zien. **HIER ONTSTAAT HET, HIER GEBEURT HET.** Maar deze transformatie kan alleen maar af doen aan het plein als een kale vlakte. Leegte is immers een voorwaarde voor vernieuwing. Hier is een plek die ruimte open houdt voor de vraag: **IS IT HAPPENING?**
 
 Lees ook het artikel [_Playground for pioneers_](https://www.rotterdamisithappening.nl/home/blog/2021/07/17/IIH07.html).
 <br>

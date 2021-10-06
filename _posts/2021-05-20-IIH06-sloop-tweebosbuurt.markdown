@@ -10,7 +10,7 @@ tags:
  - Happening
 
 ---
-# Op 20 mei begon de sloop van de Tweebosbuurt, de frontlinie van het gentrificatiebeleid van Rotterdam. 
+# Op 20 mei begon de sloop van de Tweebosbuurt, frontlinie van het gentrificatiebeleid van Rotterdam.
 
 Deze happening is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).
 

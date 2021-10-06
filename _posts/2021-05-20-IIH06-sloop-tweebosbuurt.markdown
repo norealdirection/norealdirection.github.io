@@ -14,6 +14,8 @@ tags:
 
 **ROTTERDAM. IS IT HAPPENING?** maakte voor de gelegenheid een aantal banners. Deze happening werd mogelijk gemaakt dankzij een financiële bijdrage [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).
 
+<br>
+
 ![](https://www.rotterdamisithappening.nl/images/posts/IIH06/IIH06-banner-2.jpg)
 
 <br>

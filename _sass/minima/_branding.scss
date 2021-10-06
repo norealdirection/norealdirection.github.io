@@ -57,7 +57,7 @@
 
 	&:hover,
 	&:focus {
-		.poster-download-button {
+		.banner-download-button {
 			background-color: #000;
 		}
 	}
@@ -96,6 +96,6 @@
 
 @media all and (min-width: 1024px) {
 	.poster-image-container {
-		margin-bottom: 25px;
+		margin-bottom: 50px;
 	}
 }

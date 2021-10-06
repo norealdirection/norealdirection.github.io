@@ -26,7 +26,7 @@ Dat leegte een voorwaarde is voor vernieuwing weet Koolhaas maar al te goed. ‘
 
 Het park kon vanaf het begin op veel kritiek rekenen, maar volgens Blaisse moeten we het niet beoordelen als een stedelijk park, maar als een kunstwerk, een schilderij. Zoals moderne kunst is het Museumpark dienstbaar aan de mens, de Rotterdammer, juist in haar <style font-style="italic">on</style>menselijkheid. Dit geldt vooral voor de lege, geasfalteerde vlakte in het midden, dat vooral getypeerd wordt door een _gebrek_ aan ervaring. Het richt zich tot niemand specifiek en dat maakt het juist een plek voor iedereen.
 
-![](https://www.rotterdamisithappening.nl/images/posts/Playground-for-pioneers/playground-02.jpg)
+![](https://www.rotterdamisithappening.nl/images/posts/playground-for-pioneers/playground-02.jpg)
 
 Onterecht is dit deel van het Museumpark door planologen weggezet als een plein dat niet goed functioneert, waar niets gebeurt en dat slecht wordt gebruikt. Dat er niets gebeurt is evengoed een gebeurtenis, zoals kunst ons leert, want er gebeurt altijd wel _iets_. Bovendien wordt het wel degelijk gebruikt; het is een geliefde plek onder skaters en andere sporters: uniek in haar eenvoud; een plek waar geen beginner zich opgelaten voelt en waar obstakels spontaan ontstaan uit geleende bouwmaterialen. Er gebeurt hier van alles, maar het laat zich niet gemakkelijk vastleggen.
 
@@ -42,4 +42,4 @@ Leegte wordt al gauw iets dat veroverd, gepionierd moet worden. Ruimte, zowel fy
 
 Koolhaas eindigde zijn tekst over de _void_ met de vraag waar toch die bouwwoede van architecten en planners vandaan komt, wat erachter schuilt. Verhult het wellicht een angst voor de leegte? Een weerzin van _het niets_? Deze vraag kan breder getrokken worden: Is al die vernieuwing eigenlijk een vorm van wanhoop? Schuilt er achter de slogan van Rotterdam de wanhoop dat er niets meer zal gebeuren?
 
-![](https://www.rotterdamisithappening.nl/images/posts/Playground-for-pioneers/playground-04.jpg)
+![](https://www.rotterdamisithappening.nl/images/posts/playground-for-pioneers/playground-04.jpg)

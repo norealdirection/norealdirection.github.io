@@ -46,6 +46,18 @@
 			background-color: #000;
 		}
 	}
+
+	.banner-image-container {
+	width: 100%;
+	max-width: 480px;
+	margin: 25px 0;
+	padding: 0;
+
+	&:hover,
+	&:focus {
+		.poster-download-button {
+			background-color: #000;
+		}
 }
 
 .poster-download-button {

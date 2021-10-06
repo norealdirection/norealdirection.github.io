@@ -11,7 +11,7 @@ tags:
  - Gentrificatie
 
 ---
-# Rotterdam staat in heel het land inmiddels bekend als de _posterboy_ van de wooncrisis. Ter gelegenheid van de woonopstand heeft **ROTTERDAM. IS IT HAPPENING?** daarom een set posters met iconen van de wooncrisis samengesteld, geïnspireerd op de [actiepunten](https://woonmanifest.nl/) van de Woonopstand. De [Woonopstand](https://www.woonopstand.nl) wordt georganiseerd door een coalitie van partijen en vindt plaats op zondag 17 oktober, 14:00 uur op het Afrikaanderplein in Rotterdam.
+# Rotterdam staat inmiddels bekend als de _posterboy_ van de Nederlandse wooncrisis. Ter gelegenheid van de woonopstand heeft **ROTTERDAM. IS IT HAPPENING?** daarom een set posters met iconen van de wooncrisis samengesteld, geïnspireerd op de [actiepunten](https://woonmanifest.nl/) van de Woonopstand. De [Woonopstand](https://www.woonopstand.nl) wordt georganiseerd door een coalitie van partijen en vindt plaats op zondag 17 oktober, 14:00 uur op het Afrikaanderplein in Rotterdam.
 
 <br>
 <br>
@@ -33,7 +33,6 @@ tags:
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Nieuw Rotterdam.pdf" download="Nieuw-Rotterdam.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Nieuw Rotterdam.jpg" alt="Nieuw Rotterdam">
 						<span class="poster-download-button">Download</span>
-						<span class="poster-share-button">Share</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Markt boven mens.pdf" download="Markt-boven-mens.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Markt boven mens.jpg" alt="Markt boven mens">

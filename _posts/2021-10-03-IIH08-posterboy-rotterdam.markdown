@@ -11,7 +11,7 @@ tags:
  - Gentrificatie
 
 ---
-#Rotterdam staat in heel Nederland bekend als de _posterboy_ van de wooncrisis. Ter gelegenheid van de woonopstand heeft **ROTTERDAM. IS IT HAPPENING?** daarom een set posters met iconen van de wooncrisis samengesteld, geïnspireerd op de [actiepunten](https://woonmanifest.nl/) van de Woonopstand. De [Woonopstand](https://www.woonopstand.nl) wordt georganiseerd door een coalitie van partijen en vindt plaats op zondag 17 oktober, 14:00 uur op het Afrikaanderplein in Rotterdam.
+# Rotterdam staat in heel Nederland bekend als de _posterboy_ van de wooncrisis. Ter gelegenheid van de woonopstand heeft **ROTTERDAM. IS IT HAPPENING?** daarom een set posters met iconen van de wooncrisis samengesteld, geïnspireerd op de [actiepunten](https://woonmanifest.nl/) van de Woonopstand. De [Woonopstand](https://www.woonopstand.nl) wordt georganiseerd door een coalitie van partijen en vindt plaats op zondag 17 oktober, 14:00 uur op het Afrikaanderplein in Rotterdam.
 
 <br>
 <br>

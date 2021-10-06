@@ -36,10 +36,17 @@ Deze happening is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetact
 				<h1 class="poster-downloads-title">Download banners</h1>
 				<p class="poster-downloads-text">... Klik op de banner om ze als PDF te downloaden, <a href="/images/posts/IIH06/downloads/tweebosbuurt-banners.pdf">of download ze gewoon allemaal</a>.</p>
 				<div class="posters-container">
-					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-frontlinie.pdf" class="poster-image-container">
-						<img class="poster-image" src="/images/posts/IIH06/thumbnails/IIH06-banner-1.jpg" alt="Tweebosbuurt frontlinie">
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-1.pdf" class="poster-image-container">
+						<img class="poster-image" src="/images/posts/IIH06/downloads/thumbnails/IIH06-banner-1.jpg" alt="Frontlinie van het gentrificatiebeleid">
 						<span class="poster-download-button">Download</span>
 					</a>
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-2.pdf" download="Tweebosbuurt-banner-2.pdf" class="poster-image-container">
+						<img class="poster-image" src="/images/posts/IIH06/downloads/thumbnails/IIH06-banner-2.jpg" alt="Armen de wijk uit">
+						<span class="poster-download-button">Download</span>
+					</a>
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-3.pdf" class="poster-image-container">
+						<img class="poster-image" src="/images/posts/IIH06/downloads/thumbnails/IIH06-banner-3.jpg" alt="Inclusieve stad">
+						<span class="poster-download-button">Download</span>
 					</a>
 				</div>
 			</div>

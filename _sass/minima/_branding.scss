@@ -1,0 +1,82 @@
+.poster-downloads {
+	width: 100%;
+	background-color: #fff;
+	color: #333;
+	text-align: center;
+}
+
+.poster-downloads-text {
+	margin-top: 20px;
+	a {
+		color: #2bb04f;
+	}
+}
+.poster-downloads-title {
+	font-weight: 600;
+	font-size: 32px;
+	font-family: "Futura";
+	text-transform: uppercase;
+	display: inline-block;
+	// border-top: 4px solid currentColor;
+	border-bottom: 4px solid currentColor;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin: 0 0 15px;
+}
+
+.posters-container {
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	width: 100%;
+	flex-flow: row;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.poster-image-container {
+	width: 100%;
+	max-width: 360px;
+	margin: 50px 0;
+	padding: 0;
+
+	&:hover,
+	&:focus {
+		.poster-download-button {
+			background-color: #000;
+		}
+	}
+}
+
+.poster-download-button {
+	display: inline-block;
+	background-color: #ccc;
+	color: #fff;
+	padding: 15px 30px;
+	line-height: 1;
+	text-transform: uppercase;
+	font-family: "Futura";
+	font-weight: 100;
+	margin-top: 30px;
+	transition: .08s all linear;
+}
+
+.poster-image {
+	width: 100%;
+}
+
+@media all and (min-width: 480px) {
+	.posters-container {
+		justify-content: space-around;
+	}
+	.poster-image-container {
+		width: calc(50% - 15px);
+		margin-bottom: 0;
+	}
+}
+
+@media all and (min-width: 1024px) {
+	.poster-image-container {
+		margin-bottom: 50px;
+	}
+}

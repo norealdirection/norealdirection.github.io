@@ -33,10 +33,10 @@ Deze happening is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetact
 	<div class="poster-downloads">
 		<div class="wrapper">
 			<div class="post-content">
-				<h1 class="poster-downloads-title">Download banners</h1>
-				<p class="poster-downloads-text">... Klik op de banner om ze als PDF te downloaden, <a href="/images/posts/IIH06/downloads/tweebosbuurt-banners.pdf">of download ze gewoon allemaal</a>.</p>
+				<h1 class="poster-downloads-title">Download posters</h1>
+				<p class="poster-downloads-text">De banners zijn hier als poster beschikbaar. Klik op de banner om ze als PDF te downloaden, <a href="/images/posts/IIH06/downloads/tweebosbuurt-banners.pdf">of download ze gewoon allemaal</a>.</p>
 				<div class="posters-container">
-					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-1.pdf" class="poster-image-container">
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-1.pdf" class="poster-image-container" style="border: 1px">
 						<img class="poster-image" src="/images/posts/IIH06/downloads/thumbnails/IIH06-banner-1.jpg" alt="Frontlinie van het gentrificatiebeleid">
 						<span class="poster-download-button">Download</span>
 					</a>

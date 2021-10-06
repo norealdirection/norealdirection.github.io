@@ -38,15 +38,15 @@ tags:
 				<h1 class="poster-downloads-title">Download posters</h1>
 				<p class="poster-downloads-text">De banners zijn hier als poster beschikbaar. Klik op de banner om ze als PDF te downloaden, <a href="/images/posts/IIH06/downloads/tweebosbuurt-banners.pdf">of download ze gewoon allemaal</a>.</p>
 				<div class="posters-container">
-					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-1.pdf" class="banner-image-container">
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-1.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/posts/IIH06/downloads/thumbnails/IIH06-banner-1.jpg" alt="Frontlinie van het gentrificatiebeleid" style="border: 1px solid black">
 						<span class="poster-download-button">Download</span>
 					</a>
-					<a href="/images/posts/IIH06/downloads/IIH06-banner-2.pdf" download="Tweebosbuurt-banner-2.pdf" class="banner-image-container">
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-2.pdf" download="Tweebosbuurt-banner-2.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/posts/IIH06/downloads/thumbnails/IIH06-banner-2.jpg" alt="Armen de wijk uit" style="border: 1px solid black">
 						<span class="poster-download-button">Download</span>
 					</a>
-					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-3.pdf" class="banner-image-container">
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-banner-3.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/posts/IIH06/downloads/thumbnails/IIH06-banner-3.jpg" alt="Inclusieve stad" style="border: 1px solid black">
 						<span class="poster-download-button">Download</span>
 					</a>

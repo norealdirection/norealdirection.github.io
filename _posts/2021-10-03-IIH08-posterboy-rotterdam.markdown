@@ -39,7 +39,7 @@ tags:
 						<span class="poster-download-button">Download</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Volkswijk te koop.pdf" download="Volkswijk-te-koop.pdf" class="poster-image-container">
-						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Volkswijk te koop.jpg" alt="Volkswijk te koop">
+						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Huizen voor winst.jpg" alt="Volkswijk te koop">
 						<span class="poster-download-button">Download</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Penthouse bewoners.pdf" download="Penthouse-bewoners.pdf" class="poster-image-container">

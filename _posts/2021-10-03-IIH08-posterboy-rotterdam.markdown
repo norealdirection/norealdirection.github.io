@@ -33,6 +33,7 @@ tags:
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Nieuw Rotterdam.pdf" download="Nieuw-Rotterdam.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Nieuw Rotterdam.jpg" alt="Nieuw Rotterdam">
 						<span class="poster-download-button">Download</span>
+						<span class="poster-share-button">Share</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Markt boven mens.pdf" download="Markt-boven-mens.pdf" class="poster-image-container">
 						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Markt boven mens.jpg" alt="Markt boven mens">

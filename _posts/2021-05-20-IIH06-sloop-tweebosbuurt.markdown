@@ -10,6 +10,40 @@ tags:
  - Happening
 
 ---
-# Welkom op de frontlinie van het gentrificatiebeleid van Rotterdam.
+# Op 20 mei begon de sloop van de Tweebosbuurt, frontlinie van het gentrificatiebeleid van Rotterdam.
 
-Deze gebeurtenis is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).
+Deze happening is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).
+
+![](IIH06-banner-2.jpg)
+
+<br>
+
+![](IIH06-banner-3.jpg)
+
+<br>
+
+<article class="post" style="
+	{%- if page.backgroundcolor -%}
+		background-color:{{ page.backgroundcolor }};
+	{%- endif -%}
+	{%- if page.textcolor -%}
+		color:{{ page.textcolor }};
+	{%- endif -%}
+	">
+	<div class="poster-downloads">
+		<div class="wrapper">
+			<div class="post-content">
+				<h1 class="poster-downloads-title">Download banners</h1>
+				<p class="poster-downloads-text">... Klik op de banner om ze als PDF te downloaden, <a href="/images/posts/IIH06/downloads/tweebosbuurt-banners.pdf">of download ze gewoon allemaal</a>.</p>
+				<div class="posters-container">
+					<a href="/images/posts/IIH06/downloads/IIH06-banner-1.pdf" download="Tweebosbuurt-frontlinie.pdf" class="poster-image-container">
+						<img class="poster-image" src="/images/posts/IIH06/thumbnails/IIH06-banner-1.jpg" alt="Tweebosbuurt frontlinie">
+						<span class="poster-download-button">Download</span>
+					</a>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</article>

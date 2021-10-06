@@ -47,6 +47,5 @@ Leegte wordt al gauw iets dat veroverd, gepionierd moet worden. Ruimte, zowel fy
 Koolhaas eindigde zijn tekst over de _void_ met de vraag waar toch die bouwwoede van architecten en planners vandaan komt, wat erachter schuilt. Verhult het wellicht een angst voor de leegte? Een weerzin van _het niets_? Deze vraag kan breder getrokken worden: Is al die vernieuwing eigenlijk een vorm van wanhoop? Schuilt er achter de slogan van Rotterdam de wanhoop dat er niets meer zal gebeuren?
 
 <br>
-<br>
 
 ![](https://www.rotterdamisithappening.nl/images/posts/playground-for-pioneers/playground-04.jpg)

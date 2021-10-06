@@ -31,23 +31,23 @@ tags:
 				<p class="poster-downloads-text">De posters kunnen zo groot als A0-formaat geprint worden. Klik op de poster om ze als high-res PDF te downloaden, <a href="/images/posts/IIH08/downloads/woonopstand-posters.zip">of download ze gewoon allemaal</a>.</p>
 				<div class="posters-container">
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Nieuw Rotterdam.pdf" download="Nieuw-Rotterdam.pdf" class="poster-image-container">
-						<img class="poster-image" src="/images/posts/IIH08/IIH08-posters-Nieuw Rotterdam.jpg" alt="Nieuw Rotterdam">
+						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Nieuw Rotterdam.jpg" alt="Nieuw Rotterdam">
 						<span class="poster-download-button">Download</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Markt boven mens.pdf" download="Markt-boven-mens.pdf" class="poster-image-container">
-						<img class="poster-image" src="/images/posts/IIH08/IIH08-posters-Markt boven mens.jpg" alt="Markt boven mens">
+						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Markt boven mens.jpg" alt="Markt boven mens">
 						<span class="poster-download-button">Download</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Volkswijk te koop.pdf" download="Volkswijk-te-koop.pdf" class="poster-image-container">
-						<img class="poster-image" src="/images/posts/IIH08/IIH08-posters-Volkswijk te koop.jpg" alt="Volkswijk te koop">
+						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Volkswijk te koop.jpg" alt="Volkswijk te koop">
 						<span class="poster-download-button">Download</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Penthouse bewoners.pdf" download="Penthouse-bewoners.pdf" class="poster-image-container">
-						<img class="poster-image" src="/images/posts/IIH08/IIH08-posters-Penthouse bewoners.jpg" alt="Penthouse bewoners">
+						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Penthouse bewoners.jpg" alt="Penthouse bewoners">
 						<span class="poster-download-button">Download</span>
 					</a>
 					<a href="/images/posts/IIH08/downloads/IIH08-posters-Hoogste segment.pdf" download="Hoogste-segment.pdf" class="poster-image-container">
-						<img class="poster-image" src="/images/posts/IIH08/IIH08-posters-Hoogste segment.jpg" alt="Penthouse bewoners">
+						<img class="poster-image" src="/images/posts/IIH08/thumbnails/IIH08-posters-Hoogste segment.jpg" alt="Penthouse bewoners">
 						<span class="poster-download-button">Download</span>
 					</a>
 				</div>

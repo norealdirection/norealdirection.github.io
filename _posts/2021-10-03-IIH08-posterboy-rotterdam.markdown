@@ -24,7 +24,6 @@ tags:
 		color:{{ page.textcolor }};
 	{%- endif -%}
 	">
-
 	<div class="poster-downloads">
 		<div class="wrapper">
 			<div class="post-content">
@@ -50,7 +49,6 @@ tags:
 				</div>
 			</div>
 		</div>
-
 	</div>
 
 </article>

@@ -10,7 +10,9 @@ tags:
  - Happening
 
 ---
-# Op 20 mei begon de sloop van de Tweebosbuurt, frontlinie van het gentrificatiebeleid van Rotterdam. **ROTTERDAM. IS IT HAPPENING?** maakte voor de gelegenheid een aantal banners. Deze happening werd mogelijk gemaakt dankzij een financiële bijdrage [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).
+# Op 20 mei begon de sloop van de Tweebosbuurt, frontlinie van het gentrificatiebeleid van Rotterdam.
+
+**ROTTERDAM. IS IT HAPPENING?** maakte voor de gelegenheid een aantal banners. Deze happening werd mogelijk gemaakt dankzij een financiële bijdrage [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).
 
 ![](IIH06-banner-2.jpg)
 

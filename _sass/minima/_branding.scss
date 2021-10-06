@@ -85,10 +85,14 @@
 		width: calc(50% - 15px);
 		margin-bottom: 0;
 	}
+	.banner-image-container {
+		width: calc(67% - 15px);
+		margin-bottom: 0;
+	}
 }
 
 @media all and (min-width: 1024px) {
 	.poster-image-container {
-		margin-bottom: 50px;
+		margin-bottom: 25px;
 	}
 }

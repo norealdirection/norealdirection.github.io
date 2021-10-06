@@ -24,9 +24,13 @@ Deze wisselwerking tussen de creatieve klasse en gemeentelijk beleid, specifiek 
 
 Dat leegte een voorwaarde is voor vernieuwing weet Koolhaas maar al te goed. ‘_Where there is nothing, everything is possible. Where there is architecture, nothing (else) is possible anymore_’, schreef hij in de opening van het in 1985 gepubliceerde _Imagining Nothingness_. De _void_, de leegte, was in die tijd een productief architectonisch concept voor Koolhaas (en anderen), omdat een ongeprogrammeerde ruimte zich door gebruikers laat toeëigenen. In datzelfde jaar, 1985, begon hij met OMA aan het ontwerp van het Museumpark. Onder zijn supervisie werd het vormgegeven door Yves Brunier en Petra Blaisse, maar dat ideeën over de potentie van _urban voids_ een weg vonden in het project is duidelijk.
 
-Het park kon vanaf het begin op veel kritiek rekenen, maar volgens Blaisse moeten we het niet beoordelen als een stedelijk park, maar als een kunstwerk, een schilderij. Zoals moderne kunst is het Museumpark dienstbaar aan de mens, de Rotterdammer, juist in haar <style font-style="italic">on</style>menselijkheid. Dit geldt vooral voor de lege, geasfalteerde vlakte in het midden, dat vooral getypeerd wordt door een _gebrek_ aan ervaring. Het richt zich tot niemand specifiek en dat maakt het juist een plek voor iedereen.
+<br>
 
 ![](https://www.rotterdamisithappening.nl/images/posts/playground-for-pioneers/playground-02.jpg)
+
+<br>
+
+Het park kon vanaf het begin op veel kritiek rekenen, maar volgens Blaisse moeten we het niet beoordelen als een stedelijk park, maar als een kunstwerk, een schilderij. Zoals moderne kunst is het Museumpark dienstbaar aan de mens, de Rotterdammer, juist in haar <style font-style="italic">on</style>menselijkheid. Dit geldt vooral voor de lege, geasfalteerde vlakte in het midden, dat vooral getypeerd wordt door een _gebrek_ aan ervaring. Het richt zich tot niemand specifiek en dat maakt het juist een plek voor iedereen.
 
 Onterecht is dit deel van het Museumpark door planologen weggezet als een plein dat niet goed functioneert, waar niets gebeurt en dat slecht wordt gebruikt. Dat er niets gebeurt is evengoed een gebeurtenis, zoals kunst ons leert, want er gebeurt altijd wel _iets_. Bovendien wordt het wel degelijk gebruikt; het is een geliefde plek onder skaters en andere sporters: uniek in haar eenvoud; een plek waar geen beginner zich opgelaten voelt en waar obstakels spontaan ontstaan uit geleende bouwmaterialen. Er gebeurt hier van alles, maar het laat zich niet gemakkelijk vastleggen.
 
@@ -41,5 +45,8 @@ Het verhaal van permanente verandering is een verhaal met potentie, _mits_ de co
 Leegte wordt al gauw iets dat veroverd, gepionierd moet worden. Ruimte, zowel fysiek als mentaal, staat in dienst van het stedelijke transformatievermogen. Zoals een enorme spiegel—een andere symbolische leegte—de projectie van een prestigieuze skyline dient. Ook het Collectiegebouw wordt een modern kunstwerk genoemd, maar het is vooral een geavanceerd stuk stadsmarketing. Het is pijnlijk dat juist een kunstinstituut zo gemakkelijk voorbij gaat aan de artistieke en culturele waarde van het Museumpark. Boijmans ziet niet de Black Square die naast haar ligt. Maar ook musea opereren uiteindelijk onder een logica van dominantie. Het Collectiegebouw wordt bezongen als triomf van de Rotterdame **MAKE IT HAPPEN.** mentaliteit. De geasfalteerde, kale vlakte ernaast is haar tegenpool. Hier is een plek in Rotterdam die ruimte open houdt voor de vraag: **IS IT HAPPENING?**
 
 Koolhaas eindigde zijn tekst over de _void_ met de vraag waar toch die bouwwoede van architecten en planners vandaan komt, wat erachter schuilt. Verhult het wellicht een angst voor de leegte? Een weerzin van _het niets_? Deze vraag kan breder getrokken worden: Is al die vernieuwing eigenlijk een vorm van wanhoop? Schuilt er achter de slogan van Rotterdam de wanhoop dat er niets meer zal gebeuren?
+
+<br>
+<br>
 
 ![](https://www.rotterdamisithappening.nl/images/posts/playground-for-pioneers/playground-04.jpg)

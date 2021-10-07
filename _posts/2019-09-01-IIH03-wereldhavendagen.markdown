@@ -26,6 +26,6 @@ De situatie is cynisch. Het Havenbedrijf laat weten van plan te zijn haar winst 
 
 **Climate crisis. Make it happen.**
 
-![Wereldhavendagen 2019](images/posts/whd2019/whd2019-03.jpg)
+![Wereldhavendagen 2019](images/posts/IIH03/IIH03-3.jpg)
 
 Deze happening is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).

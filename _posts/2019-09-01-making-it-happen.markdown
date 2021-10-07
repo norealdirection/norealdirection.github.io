@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Wereldhavendagen 2019"
-subtitle: "Met onze eerste posteractie en het grootste klimaatprotest in Rotterdam ooit."
+title: "Making it happen"
+subtitle: "Vooruitgang en verval zijn twee kanten van dezelfde medaille."
 categories: blog home
 image: images/posts/IIH03/IIH03-1.jpg
 tags: 
- - Wereldhavendagen 
+ - Wereldhavendagen
  - Havenbedrijf
  - Klimaatverandering
 
@@ -14,7 +14,7 @@ tags:
 
 Ironisch genoeg waren die dag vijf regionale stalen bruggen door de hitte dusdanig uitgezet dat ze niet meer functioneerden, waardoor de gevierde groei op dat moment voor eventjes werd geremd. Eenzelfde ironie plaagt de binnenvaart al langer. Door het lage waterpeil is men vandaag gedwongen om met kleinere ladingen te varen.
 
-Je zou verwachten dat met dit soort concrete gevallen van zelfsabotage ook Het Havenbedrijf zich achter de oren begint te krabben. En wellicht is dat voor sommigen inderdaad het geval. Toch lukt het maar niet om het roer om te gooien. Men blijft zich verkijken op het financiële plaatje of het probleem verschuiven, dan wel voor zich uitschuiven. Wanneer het klimaatprobleem wel serieus genomen wordt, wordt het geïnterpreteerd als een technisch probleem dat vraagt om ‘innovaties’, zoals biobrandstoffen of Carbon Capture Storage, welke nooit meer zullen zijn dan halve maatregelen.
+Je zou verwachten dat met dit soort concrete gevallen van zelfsabotage ook Het Havenbedrijf zich achter de oren begint te krabben. En wellicht is dat voor sommigen inderdaad het geval. Toch lukt het maar niet om het roer om te gooien. Men verkijkt zich op het financiële plaatje of verschuift het probleem. Wanneer het klimaatprobleem wel serieus genomen wordt, wordt het geïnterpreteerd als een probleem dat vraagt om technologische innovaties, zoals biobrandstoffen of Carbon Capture Storage, welke nooit meer zullen zijn dan halve maatregelen.
 
 **Make It Happen.**, roept men volhardend in Rotterdam. Onheilspellend, zou je kunnen zeggen, want het is nog maar de vraag of technologie de klimaatcrisis gaat oplossen of juist vergroten. Vooruitgang en verval zijn twee kanten van dezelfde medaille. Of, zoals de technologie filosoof Paul Virilio ooit stelde: de ontdekking van het schip was onbedoeld ook de ontdekking van het scheepswrak. Iedere technologie draagt z’n eigen negatief met zich mee.
 
@@ -25,6 +25,8 @@ De groeiende fossiele industrie _is_ de stijgende temperatuur _is_ de stijgende 
 De situatie is cynisch. Het Havenbedrijf laat weten van plan te zijn haar winst grotendeels te investeren in infrastructuur. Nieuwe bruggen, diepere havens en kanalen, een nóg grotere Maasvlakte. Allemaal om volgend jaar nog hogere getallen te kunnen vieren. 
 
 **Climate crisis. Make it happen.**
+
+<br>
 
 ![Wereldhavendagen 2019](https://www.rotterdamisithappening.nl/images/posts/IIH03/IIH03-3.jpg)
 

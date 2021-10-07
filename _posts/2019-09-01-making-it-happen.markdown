@@ -3,7 +3,7 @@ layout: post
 title: "Making it happen"
 subtitle: "Vooruitgang en verval zijn twee kanten van dezelfde medaille."
 categories: blog home
-image: images/posts/IIH03/IIH03-1.jpg
+image: images/posts/making-it-happen/making-it-happen-1.jpg
 tags: 
  - Wereldhavendagen
  - Havenbedrijf
@@ -25,9 +25,3 @@ De groeiende fossiele industrie _is_ de stijgende temperatuur _is_ de stijgende 
 De situatie is cynisch. Het Havenbedrijf laat weten van plan te zijn haar winst grotendeels te investeren in infrastructuur. Nieuwe bruggen, diepere havens en kanalen, een nóg grotere Maasvlakte. Allemaal om volgend jaar nog hogere getallen te kunnen vieren. 
 
 **Climate crisis. Make it happen.**
-
-<br>
-
-![Wereldhavendagen 2019](https://www.rotterdamisithappening.nl/images/posts/IIH03/IIH03-3.jpg)
-
-Deze happening is mede mogelijk gemaakt door [Het X-Y Actiefonds](https://hetactiefonds.nl/en/homepage/).

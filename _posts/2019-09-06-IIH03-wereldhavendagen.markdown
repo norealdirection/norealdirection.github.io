@@ -29,7 +29,7 @@ Deze happening werd mede mogelijk gemaakt dankzij een financiële bijdrage van [
 
 > Concrete gevolgen op korte en lange termijn van die crisis zijn de stijgende zeespiegel, verlies van biodiversiteit, voedsel tekorten, dodelijke hitte-golven en droogtes, vernietegende stormen en woedende bosbranden. Het zijn effecten die nu al in toenemende mate ter wereld _gebeuren_. Dit suggereert een andere interpretatie van de leus **MAKE IT HAPPEN.** Namelijk als een onbedoeld _veroorzaken._
 
-Lees ook het artikel [_Making It Happen_](https://www.rotterdamisithappening.nl/home/blog/2021/09/01/making-it-happen.html).
+Lees ook het artikel [_Making It Happen_](https://www.rotterdamisithappening.nl/home/blog/2019/09/01/making-it-happen.html).
 
 <br>
 

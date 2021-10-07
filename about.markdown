@@ -28,6 +28,4 @@ De uitspraak **MAKE IT HAPPEN.** is er op gericht de stad en haar omgeving te ve
 
 **IS IT HAPPENING?** is de vraag op het antwoord **MAKE IT HAPPEN.** De vraag stellen is de vraag beantwoorden: nee, het gebeurt niet voor iedereen evenredig; ja, er voltrekt zich een _man-made_, planetaire, ecologische ramp. Onzekerheid is echter ook een kwestie van twijfel; een niet-zeker-zijn. Een beetje stad beschikt over een reflexief vermogen en reflectie vereist dat je alert bent voor nieuwe gebeurtenissen; dat je niet altijd weet wat er moet gebeuren. Het houdt ruimte open voor de vraag: _is it happening?_ Omdat er anders  nooit iets werkelijk nieuws kan gebeuren.
 
-Revolutie of rampspoed; de vraag is hetzelfde: **ROTTERDAM. IS IT HAPPENING?**
-
 ![IS IT HAPPENING?](assets/misc/schrikhek-wit3.png)

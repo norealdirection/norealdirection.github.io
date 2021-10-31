@@ -30,7 +30,7 @@ Dat leegte een voorwaarde is voor vernieuwing weet Koolhaas maar al te goed. ‘
 
 <br>
 
-Het park kon vanaf het begin op veel kritiek rekenen, maar volgens Blaisse moeten we het niet beoordelen als een stedelijk park, maar als een kunstwerk, een schilderij. Zoals moderne kunst is het Museumpark dienstbaar aan de mens, de Rotterdammer, juist in haar <style font-style="italic">on</style>menselijkheid. Dit geldt vooral voor de lege, geasfalteerde vlakte in het midden, dat vooral getypeerd wordt door een _gebrek_ aan ervaring. Het richt zich tot niemand specifiek en dat maakt het juist een plek voor iedereen.
+Het park kon vanaf het begin op veel kritiek rekenen, maar volgens Blaisse moeten we het niet beoordelen als een stedelijk park, maar als een kunstwerk, een schilderij. Zoals moderne kunst is het Museumpark dienstbaar aan de mens, de Rotterdammer, juist in haar _onmenselijkheid_. Dit geldt vooral voor de lege, geasfalteerde vlakte in het midden, dat vooral getypeerd wordt door een _gebrek_ aan ervaring. Het richt zich tot niemand specifiek en dat maakt het juist een plek voor iedereen.
 
 Onterecht is dit deel van het Museumpark door planologen weggezet als een plein dat niet goed functioneert, waar niets gebeurt en dat slecht wordt gebruikt. Dat er niets gebeurt is evengoed een gebeurtenis, zoals kunst ons leert, want er gebeurt altijd wel _iets_. Bovendien wordt het wel degelijk gebruikt; het is een geliefde plek onder skaters en andere sporters: uniek in haar eenvoud; een plek waar geen beginner zich opgelaten voelt en waar obstakels spontaan ontstaan uit geleende bouwmaterialen. Er gebeurt hier van alles, maar het laat zich niet gemakkelijk vastleggen.
 

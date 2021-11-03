@@ -3,7 +3,7 @@ layout: post
 title: "Woonopstand 2021"
 subtitle: "Recap van onze aanwezigheid bij de Woonopstand."
 categories: home blog
-image: images/posts/IIH09/woonopstand-2021.jpg
+image: images/posts/IIH09/IIH09-woonopstand.jpg
 tags:
  - Happening
  - Woonopstand
@@ -16,7 +16,3 @@ tags:
 Veel dank ook aan de organisatie van @woonopstand voor een mooi en solidair protest. Helaas is het protest in de schaduw komen te staan van het politiegeweld halverwege de route. Het heeft er alle schijn van dat de demonstratie werd gesaboteerd door het stadsbestuur en de politie, waardoor het ongenoegen in deze stad nog niet genoeg gehoord is. Maar zolang de huren blijven stijgen stijgt het ongenoegen mee. Het gaat op zoek naar nieuwe manieren en momenten om gehoord te worden.
 
 De posters zijn hieronder als PDF bestand te downloaden](https://www.rotterdamisithappening.nl/branding-toolkit/).
-
-
-<br>
-<br>

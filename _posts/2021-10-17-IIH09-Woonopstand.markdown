@@ -3,7 +3,7 @@ layout: post
 title: "Woonopstand 2021"
 subtitle: "Recap van onze aanwezigheid bij de Woonopstand."
 categories: home blog
-image: images/posts/IIH09/IIH09-woonopstand2.jpg
+image: images/posts/IIH09/IIH09-woonopstand-2.jpg
 tags:
  - Happening
  - Woonopstand

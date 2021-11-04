@@ -3,7 +3,7 @@ layout: post
 title: "Panorama Rotterdam"
 subtitle: "Het meest geavanceerde apparaat van de Rotterdamse stadsmarketing."
 categories: blog
-image: images/posts/Panorama Rotterdam/PR-01.jpg
+image: images/posts/panorama-rotterdam/pr-01.jpg
 tags:
  - Depot
  - Architectuur

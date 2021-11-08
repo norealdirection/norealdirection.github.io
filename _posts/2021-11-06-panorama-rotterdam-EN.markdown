@@ -2,7 +2,7 @@
 layout: post
 title: "Panorama Rotterdam"
 subtitle: "The most advanced apparatus of the Rotterdam city marketing campaign."
-categories: blog
+categories:
 image: images/posts/panorama-rotterdam/pr-01.jpg
 tags:
  - Depot

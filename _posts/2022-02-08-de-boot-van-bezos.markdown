@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De boot van Bezos"
-subtitle: "Het epos dat Rotterdam in binnen en buitenland in de schijnwerpers zet."
+subtitle: "Het hedendaagse epos dat Rotterdam in binnen en buitenland in de schijnwerpers zet."
 categories: home blog
 image: images/posts/de-boot-van-bezos/bezos-boot.jpg
 tags:

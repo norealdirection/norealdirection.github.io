@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Panorama Rotterdam"
-subtitle: "Het meest geavanceerde apparaat van de Rotterdamse stadsmarketing."
+title: "De boot van Bezos"
+subtitle: "Het epos dat Rotterdam in binnen en buitenland in de schijnwerpers zet."
 categories: home blog
-image: images/posts/panorama-rotterdam/pr-01.jpg
+image: images/posts/de-boot-van-bezos/bezos-boot.jpg
 tags:
- - Depot
- - Architectuur
  - Stadsmarketing
+ - Haven
+ - MCoE
 
 ---
 # Iedereen houdt van een goed verhaal. Het schip van de rijkste man ter wereld moet door de gateway of Europe, maar de poort is te klein. Ondanks een zoveel jaar oude belofte zal de poort moeten worden ontmantelt. Het is de opzet van een hedendaags epos dat Rotterdam in binnen en buitenland in de schijnwerpers zet.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De boot van Bezos"
-subtitle: "Een hedendaags epos dat Rotterdam in binnen en buitenland in de schijnwerpers zet."
+subtitle: "Het epos dat Rotterdam in binnen en buitenland in de schijnwerpers zet."
 categories: home blog
 image: images/posts/de-boot-van-bezos/bezos-boot.jpg
 tags:
@@ -14,7 +14,7 @@ tags:
 
 Het lijkt er op dat de gratis PR de Rotterdamse stadspromotors in verlegenheid brengt. Al die internationale exposure en tot op heden nog geen officieel bericht van Rotterdam Partners of **MAKE IT HAPPEN.** Slechts een reflecterende vraag van een medewerkster aan haar netwerk op LinkedIn: ‘Een brug te ver?’ Even het water testen, wellicht. _There is no such thing as bad publicity_, luidt het gezegde, maar gezien de controverse kan of wil men het (nog) niet vieren. Zouden ze binnensmonds juichen? Promotioneel gezien is dit event immers voor de lokale maritieme industriesector wat het Depot is voor de toeristensector: een katalysator.
 
-Toegegeven, volgens de laatste berichtgevingen is er nog niks officieel besloten. In een reactie op alle commotie laat burgemeester Aboutaleb weten dat er geen besluit wordt genomen voor alle details bekend zijn. Ook moeten de gevolgen voor het maritieme imago van de stad eerst worden afgewogen. Toch lijkt het er op dat hij mooi weer speelt. Hij is immers op reis in Zuid-Amerika en het is bijna verkiezingstijd. Dat er een schip in Alblasserdam wordt gebouwd met drie enorme masten is echter al twee jaar bekend. Hoe het ook zij, we weten allemaal hoe dit gaat aflopen. In de zomer wordt het val uit De Hef getild en kunnen we het duurste schip ter wereld, ter waarde van 430 miljoen Euro, door Rotterdam zien varen.
+Toegegeven, volgens de laatste berichtgevingen is er nog niks officieel besloten. In een reactie op alle commotie laat Burgemeester Aboutaleb weten dat er geen besluit wordt genomen voor alle details bekend zijn. Ook moeten de gevolgen voor het maritieme imago van de stad eerst worden afgewogen. Toch lijkt het er op dat hij mooi weer speelt. Hij is immers op reis in Zuid-Amerika en het is bijna verkiezingstijd. Dat er een schip in Alblasserdam wordt gebouwd met drie enorme masten is echter al twee jaar bekend. Hoe het ook zij, we weten allemaal hoe dit gaat aflopen. In de zomer wordt het val uit De Hef getild en kunnen we het duurste schip ter wereld, ter waarde van 430 miljoen Euro, door Rotterdam zien varen.
 Een kort overzicht van belangen.
 
 Het schip wordt gebouwd door Oceanco, dat onderdeel is van PortXL, een up-scale programma van Het Havenbedrijf. Samen met de gemeente Rotterdam, Drechtsteden en andere organisaties uit de Rijndelta regio vormen zij **ROTTERDAM. MARITIME CAPITAL OF EUROPE.**, een _joint pay-off_ ter promotie en versterking van de lokale maritieme industriesector. Het **ROTTERDAM. MAKE IT HAPPEN.** logo staat ook onderaan de website. Het is niet alleen de slogan en het merk van Rotterdam, maar ook het partnernetwerk waar Het Havenbedrijf en Gemeente Rotterdam twee van de grootste aandeelhouders van zijn. Middels publiek-private partnerschappen hebben deze organisaties hun krachten gebundeld om de stedelijke en regionale economie van Rotterdam vooruit te branden in de strijd met andere steden. Belofte maakt schuld en dan is er al gauw maar één mogelijkheid: _make it happen_.

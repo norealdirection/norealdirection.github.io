@@ -25,65 +25,71 @@
     <div id="container">
       <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
       <script src="https://threejs.org/examples/js/loaders/OBJLoader.js"></script>
-      <script>
-        var scene = new THREE.Scene();
+        <script>
+          // Import the OBJLoader constructor
+          var OBJLoader = THREE.OBJLoader;
 
-        var camera = new THREE.OrthographicCamera(
-          window.innerWidth / -2,
-          window.innerWidth / 2,
-          window.innerHeight / 2,
-          window.innerHeight / -2,
-          1,
-          1000
-        );
+          // Create a new OBJLoader instance
+          var loader = new OBJLoader();
+          
+          var scene = new THREE.Scene();
 
-        camera.position.set(0, 0, 500);
+          var camera = new THREE.OrthographicCamera(
+            window.innerWidth / -2,
+            window.innerWidth / 2,
+            window.innerHeight / 2,
+            window.innerHeight / -2,
+            1,
+            1000
+          );
 
-        var renderer = new THREE.WebGLRenderer();
-        renderer.setSize(window.innerWidth, window.innerHeight);
-        document.getElementById("container").appendChild(renderer.domElement);
+          camera.position.set(0, 0, 500);
 
-        var loader = new THREE.OBJLoader();
-        loader.load(
-          "https://norealdirection.github.io/Jumbo2022.obj",
-          function (object) {
-            // Create a yellow material
-            var material = new THREE.MeshPhongMaterial({ color: 0xfad201 });
+          var renderer = new THREE.WebGLRenderer();
+          renderer.setSize(window.innerWidth, window.innerHeight);
+          document.getElementById("container").appendChild(renderer.domElement);
 
-            // Apply the material to the object
-            object.traverse(function(child) {
-              if (child instanceof THREE.Mesh) {
-                child.material = material;
-              }
-            });
+          var loader = new THREE.OBJLoader();
+          loader.load(
+            "https://norealdirection.github.io/Jumbo2022.obj",
+            function (object) {
+              // Create a yellow material
+              var material = new THREE.MeshPhongMaterial({ color: 0xfad201 });
 
-            // Position and scale the object as needed
-            object.position.set(0, 0, 0);
-            object.scale.set(1, 1, 1);
+              // Apply the material to the object
+              object.traverse(function(child) {
+                if (child instanceof THREE.Mesh) {
+                  child.material = material;
+                }
+              });
 
-            // Add the object to the scene
-            scene.add(object);
-          },
-          // Called while loading is in progress
-          function (xhr) {
-            console.log((xhr.loaded / xhr.total) * 100 + "% loaded");
-          },
-          // Called when loading has errors
-          function (error) {
-            console.log("An error happened: " + error);
-          }
-        );
+              // Position and scale the object as needed
+              object.position.set(0, 0, 0);
+              object.scale.set(1, 1, 1);
 
-        var animate = function () {
-          requestAnimationFrame(animate);
+              // Add the object to the scene
+              scene.add(object);
+            },
+            // Called while loading is in progress
+            function (xhr) {
+              console.log((xhr.loaded / xhr.total) * 100 + "% loaded");
+            },
+            // Called when loading has errors
+            function (error) {
+              console.log("An error happened: " + error);
+            }
+          );
 
-          // Rotate the object
-          scene.children[0].rotation.y += 0.01;
+          var animate = function () {
+            requestAnimationFrame(animate);
 
-          renderer.render(scene, camera);
-        };
+            // Rotate the object
+            scene.children[0].rotation.y += 0.01;
 
-        animate();
+            renderer.render(scene, camera);
+          };
+
+          animate();
       </script>
     </div>
   </body>

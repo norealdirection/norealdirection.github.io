@@ -43,7 +43,10 @@
         document.getElementById("container").appendChild(renderer.domElement);
 
         var geometry = new THREE.BoxGeometry(400, 400, 400);
-        var material = new THREE.MeshBasicMaterial({
+        var material = new THREE.MeshPhongMaterial({
+          color: 0xffffff, // set the base color of the material
+          shading: THREE.FlatShading // enable flat shading
+          });
           color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
         });
         var cube = new THREE.Mesh(geometry, material);

@@ -25,7 +25,6 @@
     <div id="container">
       <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
       <script src="https://threejs.org/examples/js/loaders/OBJLoader.js"></script>
-      <input type="file" id="file-input" onchange="loadObj()"></input> <!-- User selects .obj file -->
       <script>
         var scene = new THREE.Scene();
 
@@ -44,33 +43,32 @@
         renderer.setSize(window.innerWidth, window.innerHeight);
         document.getElementById("container").appendChild(renderer.domElement);
 
-        // Create a placeholder object for the .obj model
-        var object;
+        var loader = new THREE.OBJLoader();
+        loader.load(
+          "https://norealdirection.github.io/Jumbo2022.obj",
+          function (object) {
+            // Position and scale the object as needed
+            object.position.set(0, 0, 0);
+            object.scale.set(50, 50, 50);
 
-        // Load the .obj model from file
-        function loadObj() {
-          var file = document.getElementById("https://norealdirection.github.io/Jumbo2022.obj").files[0];
-          var reader = new FileReader();
-          reader.readAsText(file);
-          reader.onload = function (event) {
-            var contents = event.target.result;
-            var loader = new THREE.OBJLoader();
-            var obj = loader.parse(contents);
-            // Replace the placeholder object with the loaded .obj model
-            scene.remove(object);
-            object = obj;
+            // Add the object to the scene
             scene.add(object);
-          };
-        }
+          },
+          // Called while loading is in progress
+          function (xhr) {
+            console.log((xhr.loaded / xhr.total) * 100 + "% loaded");
+          },
+          // Called when loading has errors
+          function (error) {
+            console.log("An error happened: " + error);
+          }
+        );
 
         var animate = function () {
           requestAnimationFrame(animate);
 
-          // Rotate the loaded .obj model
-          if (object) {
-            object.rotation.x += 0.01;
-            object.rotation.y += 0.01;
-          }
+          // Rotate the object
+          scene.children[0].rotation.y += 0.01;
 
           renderer.render(scene, camera);
         };

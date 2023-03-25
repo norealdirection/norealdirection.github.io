@@ -41,6 +41,7 @@
         color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
       });
       var cube = new THREE.Mesh(geometry, material);
+      cube.scale.z = 0.7071065624; // Scale the cube only in the z direction
       scene.add(cube);
 
       var animate = function () {

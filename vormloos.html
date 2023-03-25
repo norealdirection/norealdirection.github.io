@@ -36,11 +36,12 @@
       renderer.setSize(window.innerWidth, window.innerHeight);
       document.body.appendChild(renderer.domElement);
 
-      var geometry = new THREE.BoxGeometry(282.84, 282.84, 282.84); // Scale the cube down to 70.71%
+      var geometry = new THREE.BoxGeometry(1, 1, 1);
       var material = new THREE.MeshBasicMaterial({
         color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
       });
       var cube = new THREE.Mesh(geometry, material);
+      cube.scale.z = 0.7071065624; // Scale the cube only in the z direction
       scene.add(cube);
 
       var animate = function () {
@@ -55,8 +56,8 @@
       animate();
 
       // Stretch the scene 1.7320504546 times or to 173,21%
-      var scaleX = 1;
-      var scaleY = 1.7320504546;
+      var scaleX = 1.7320504546;
+      var scaleY = 1;
       var scaleZ = 1;
       scene.scale.set(scaleX, scaleY, scaleZ);
     </script>

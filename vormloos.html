@@ -1,50 +1,56 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Floating Cube</title>
-	<style>
-		body {
-			margin: 0;
-			background-color: #ffffff; /* set background color */
-			overflow: hidden;
-		}
-		canvas {
-			display: block;
-		}
-	</style>
-</head>
-<body>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-	<script>
-		// Create scene, camera and renderer
-		const scene = new THREE.Scene();
-		const camera = new THREE.OrthographicCamera( window.innerWidth / - 2, window.innerWidth / 2, window.innerHeight / 2, window.innerHeight / - 2, 1, 1000 ); // set orthogonal camera
-		camera.position.z = 5;
-		const renderer = new THREE.WebGLRenderer();
-		renderer.setSize( window.innerWidth, window.innerHeight );
-		document.body.appendChild( renderer.domElement );
+  <head>
+    <meta charset="utf-8" />
+    <title>My 3D Website</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ffffff; /* Set the background color to white */
+      }
+      canvas {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script>
+      var scene = new THREE.Scene();
 
-		// Create cube
-		const geometry = new THREE.BoxGeometry( 1, 1, 1 );
-		const material = new THREE.MeshBasicMaterial( { color: 0xfad201 } ); // set cube color
-		const cube = new THREE.Mesh( geometry, material );
-		scene.add( cube );
+      var camera = new THREE.OrthographicCamera(
+        window.innerWidth / -2,
+        window.innerWidth / 2,
+        window.innerHeight / 2,
+        window.innerHeight / -2,
+        1,
+        1000
+      );
 
-		// Position cube
-		const aspect = window.innerWidth / window.innerHeight;
-		const distance = 5;
-		cube.position.set( 0, 0, -distance );
-		const cubeScale = distance / aspect;
-		cube.scale.set( cubeScale, cubeScale, cubeScale );
+      camera.position.set(0, 0, 500);
 
-		// Add animation
-		function animate() {
-			requestAnimationFrame( animate );
-			cube.rotation.x += 0.01;
-			cube.rotation.y += 0.01;
-			renderer.render( scene, camera );
-		}
-		animate();
-	</script>
-</body>
+      var renderer = new THREE.WebGLRenderer();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+
+      var geometry = new THREE.BoxGeometry(200, 200, 200);
+      var material = new THREE.MeshBasicMaterial({
+        color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
+      });
+      var cube = new THREE.Mesh(geometry, material);
+      scene.add(cube);
+
+      var animate = function () {
+        requestAnimationFrame(animate);
+        cube.rotation.x += 0.01;
+        cube.rotation.y += 0.01;
+        renderer.render(scene, camera);
+      };
+
+      animate();
+    </script>
+  </body>
 </html>

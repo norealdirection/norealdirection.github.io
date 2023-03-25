@@ -10,11 +10,6 @@
         overflow: hidden;
         background-color: #ffffff; /* Set the background color to white */
       }
-      #container {
-        width: 100%;
-        height: 100%;
-        transform: scale(1, 1.7320504546); /* Scale the container in the Y direction */
-      }
       canvas {
         width: 100%;
         height: 100%;
@@ -22,51 +17,48 @@
     </style>
   </head>
   <body>
-    <div id="container">
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-      <script>
-        var scene = new THREE.Scene();
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script>
+      var scene = new THREE.Scene();
 
-        var camera = new THREE.OrthographicCamera(
-          window.innerWidth / -2,
-          window.innerWidth / 2,
-          window.innerHeight / 2,
-          window.innerHeight / -2,
-          1,
-          1000
-        );
+      var camera = new THREE.OrthographicCamera(
+        window.innerWidth / -2,
+        window.innerWidth / 2,
+        window.innerHeight / 2,
+        window.innerHeight / -2,
+        1,
+        1000
+      );
 
-        camera.position.set(0, 0, 500);
+      camera.position.set(0, 0, 500);
 
-        var renderer = new THREE.WebGLRenderer();
-        renderer.setSize(window.innerWidth, window.innerHeight);
-        document.getElementById("container").appendChild(renderer.domElement);
+      var renderer = new THREE.WebGLRenderer();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
 
-        var geometry = new THREE.BoxGeometry(400, 400, 400); // Scale the cube down to 70.71%
-        
-        var material = new THREE.MeshBasicMaterial({
-          color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
-        });
-        
-        var cube = new THREE.Mesh(geometry, material);
-        scene.add(cube);
-        
-        
-        var cube = new THREE.Mesh(geometry, material);
-        cube.scale.z = 0.7071065624; // Scale the cube only in the z direction
-        scene.add(cube);
+      var geometry = new THREE.BoxGeometry(282.84, 282.84, 282.84); // Scale the cube down to 70.71%
+      var material = new THREE.MeshBasicMaterial({
+        color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
+      });
+      var cube = new THREE.Mesh(geometry, material);
+      scene.add(cube);
 
-        var animate = function () {
-          requestAnimationFrame(animate);
+      var animate = function () {
+        requestAnimationFrame(animate);
 
-          cube.rotation.x += 0.01;
-          cube.rotation.y += 0.01;
+        cube.rotation.x += 0.01;
+        cube.rotation.y += 0.01;
 
-          renderer.render(scene, camera);
-        };
+        renderer.render(scene, camera);
+      };
 
-        animate();
-      </script>
-    </div>
+      animate();
+
+      // Stretch the scene 1.7320504546 times or to 173,21%
+      var scaleX = 1;
+      var scaleY = 1.7320504546;
+      var scaleZ = 1;
+      scene.scale.set(scaleX, scaleY, scaleZ);
+    </script>
   </body>
 </html>

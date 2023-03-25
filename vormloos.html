@@ -12,7 +12,7 @@
       }
       canvas {
         width: 100%;
-        height: 173.21%; /* Scale the canvas in the y direction */
+        height: 100%; /* Scale the canvas in the y direction */
       }
     </style>
   </head>
@@ -39,8 +39,11 @@
       var geometry = new THREE.BoxGeometry(282.84, 282.84, 282.84); // Scale the cube down to 70.71%
       var material = new THREE.MeshBasicMaterial({
         color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
+        
       });
+      
       var cube = new THREE.Mesh(geometry, material);
+      cube.scale.z = 0.7071065624; // Scale the cube only in the z direction
       scene.add(cube);
 
       var animate = function () {

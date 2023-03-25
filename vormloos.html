@@ -24,6 +24,8 @@
   <body>
     <div id="container">
       <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+      <script src="https://threejs.org/examples/js/loaders/OBJLoader.js"></script>
+      <input type="file" id="file-input" onchange="loadObj()"></input> <!-- User selects .obj file -->
       <script>
         var scene = new THREE.Scene();
 
@@ -42,19 +44,33 @@
         renderer.setSize(window.innerWidth, window.innerHeight);
         document.getElementById("container").appendChild(renderer.domElement);
 
-        var geometry = new THREE.BoxGeometry(400, 400, 400);
-        var material = new THREE.MeshBasicMaterial({
-          color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
-        });
-        var cube = new THREE.Mesh(geometry, material);
-        cube.scale.y = 0.7071065624; // Scale the cube only in the z direction
-        scene.add(cube);
+        // Create a placeholder object for the .obj model
+        var object;
+
+        // Load the .obj model from file
+        function loadObj() {
+          var file = document.getElementById("https://drive.google.com/uc?id=1BArh_ImOPVkiDpjq9x1BTVWRRok5pIEE&export=download").files[0];
+          var reader = new FileReader();
+          reader.readAsText(file);
+          reader.onload = function (event) {
+            var contents = event.target.result;
+            var loader = new THREE.OBJLoader();
+            var obj = loader.parse(contents);
+            // Replace the placeholder object with the loaded .obj model
+            scene.remove(object);
+            object = obj;
+            scene.add(object);
+          };
+        }
 
         var animate = function () {
           requestAnimationFrame(animate);
 
-          cube.rotation.x += 0.01;
-          cube.rotation.y += 0.01;
+          // Rotate the loaded .obj model
+          if (object) {
+            object.rotation.x += 0.01;
+            object.rotation.y += 0.01;
+          }
 
           renderer.render(scene, camera);
         };

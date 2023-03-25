@@ -36,31 +36,29 @@
       renderer.setSize(window.innerWidth, window.innerHeight);
       document.body.appendChild(renderer.domElement);
 
-      var geometry = new THREE.BoxGeometry(400, 400, 400); // Make the cube twice as big
+      var geometry = new THREE.BoxGeometry(282.84, 282.84, 282.84); // Scale the cube down to 70.71%
       var material = new THREE.MeshBasicMaterial({
         color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
       });
       var cube = new THREE.Mesh(geometry, material);
       scene.add(cube);
 
-      var time = 0;
-
       var animate = function () {
         requestAnimationFrame(animate);
 
-        time += 0.05;
-        var x = Math.sin(time * 0.7) * 0.5;
-        var y = Math.sin(time * 0.3) * 0.5;
-        var z = Math.sin(time * 0.2) * 0.5;
-
-        cube.rotation.x += x;
-        cube.rotation.y += y;
-        cube.rotation.z += z;
+        cube.rotation.x += 0.01;
+        cube.rotation.y += 0.01;
 
         renderer.render(scene, camera);
       };
 
       animate();
+
+      // Stretch the scene 1.7320504546 times or to 173,21%
+      var scaleX = 1.7320504546;
+      var scaleY = 1;
+      var scaleZ = 1;
+      scene.scale.set(scaleX, scaleY, scaleZ);
     </script>
   </body>
 </html>

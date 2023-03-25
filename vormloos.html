@@ -18,6 +18,8 @@
 		// Create scene, camera and renderer
 		const scene = new THREE.Scene();
 		const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+		camera.position.z = 5; // move camera back
+		camera.fov = 2 * Math.atan( window.innerHeight / ( 2 * 5 ) ) * ( 180 / Math.PI ); // adjust field of view
 		const renderer = new THREE.WebGLRenderer();
 		renderer.setSize( window.innerWidth, window.innerHeight );
 		document.body.appendChild( renderer.domElement );
@@ -29,7 +31,11 @@
 		scene.add( cube );
 
 		// Position cube
-		cube.position.set( 0, 0, -5 );
+		const aspect = window.innerWidth / window.innerHeight;
+		const distance = 5 / Math.sin( camera.fov / 2 * ( Math.PI / 180 ) ); // calculate distance to fit screen
+		cube.position.set( 0, 0, -distance );
+		const cubeScale = distance / aspect; // calculate scale to fit screen
+		cube.scale.set( cubeScale, cubeScale, cubeScale );
 
 		// Add animation
 		function animate() {

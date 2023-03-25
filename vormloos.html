@@ -47,9 +47,19 @@
         loader.load(
           "https://norealdirection.github.io/Jumbo2022.obj",
           function (object) {
+            // Create a yellow material
+            var material = new THREE.MeshPhongMaterial({ color: 0xfad201 });
+
+            // Apply the material to the object
+            object.traverse(function(child) {
+              if (child instanceof THREE.Mesh) {
+                child.material = material;
+              }
+            });
+
             // Position and scale the object as needed
             object.position.set(0, 0, 0);
-            object.scale.set(1, 1, 1);
+            object.scale.set(50, 50, 50);
 
             // Add the object to the scene
             scene.add(object);

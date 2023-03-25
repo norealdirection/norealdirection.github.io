@@ -42,11 +42,16 @@
         renderer.setSize(window.innerWidth, window.innerHeight);
         document.getElementById("container").appendChild(renderer.domElement);
 
-        var geometry = new THREE.BoxGeometry(400, 400, 400);
-        var material = new THREE.MeshPhongMaterial({
+        var geometry = new THREE.BoxGeometry(400, 400, 400); // Scale the cube down to 70.71%
+        
+        var material = new THREE.MeshBasicMaterial({
           color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
-          shading: THREE.FlatShading // Enable flat shading
         });
+        
+        var cube = new THREE.Mesh(geometry, material);
+        scene.add(cube);
+        
+        
         var cube = new THREE.Mesh(geometry, material);
         cube.scale.z = 0.7071065624; // Scale the cube only in the z direction
         scene.add(cube);

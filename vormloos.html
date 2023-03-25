@@ -36,17 +36,27 @@
       renderer.setSize(window.innerWidth, window.innerHeight);
       document.body.appendChild(renderer.domElement);
 
-      var geometry = new THREE.BoxGeometry(200, 200, 200);
+      var geometry = new THREE.BoxGeometry(400, 400, 400); // Make the cube twice as big
       var material = new THREE.MeshBasicMaterial({
         color: 0xfad201, // Set the color of the cube to yellow (#FAD201)
       });
       var cube = new THREE.Mesh(geometry, material);
       scene.add(cube);
 
+      var time = 0;
+
       var animate = function () {
         requestAnimationFrame(animate);
-        cube.rotation.x += 0.01;
-        cube.rotation.y += 0.01;
+
+        time += 0.05;
+        var x = Math.sin(time * 0.7) * 0.5;
+        var y = Math.sin(time * 0.3) * 0.5;
+        var z = Math.sin(time * 0.2) * 0.5;
+
+        cube.rotation.x += x;
+        cube.rotation.y += y;
+        cube.rotation.z += z;
+
         renderer.render(scene, camera);
       };
 

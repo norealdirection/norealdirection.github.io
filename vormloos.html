@@ -27,7 +27,7 @@
       <script src="https://norealdirection.github.io/OBJLoader.js"></script>
         <script>
           // Import the OBJLoader constructor
-          var OBJLoader = THREE.OBJLoader;
+          const OBJLoader = THREE.OBJLoader;
 
           // Create a new OBJLoader instance
           var loader = new OBJLoader();
@@ -49,7 +49,8 @@
           renderer.setSize(window.innerWidth, window.innerHeight);
           document.getElementById("container").appendChild(renderer.domElement);
 
-          var loader = new THREE.OBJLoader();
+          var loader = new OBJLoader();
+          
           loader.load(
             "https://norealdirection.github.io/Jumbo2022.obj",
             function (object) {

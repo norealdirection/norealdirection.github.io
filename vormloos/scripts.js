@@ -26,22 +26,12 @@ scene.add(keyLight);
 scene.add(fillLight);
 scene.add(backLight);
 
-//var mtlLoader = new THREE.MTLLoader();
-//mtlLoader.setTexturePath('/examples/3d-obj-loader/assets/');
-//mtlLoader.setPath('/examples/3d-obj-loader/assets/');
-//mtlLoader.load('r2-d2.mtl', function (materials) {
-
-//    materials.preload();
-
 var objLoader = new THREE.OBJLoader();
-//objLoader.setMaterials(materials);
 objLoader.setPath('/vormloos/assets/');
 objLoader.load('jumbo2022.obj', function (object) {
 
 	scene.add(object);
 	object.position.y -= 60;
-
-//});
 
 });
 

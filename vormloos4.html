@@ -17,6 +17,10 @@
     const renderer = new THREE.WebGLRenderer();
     renderer.setSize(window.innerWidth, window.innerHeight);
     document.getElementById('canvas-container').appendChild(renderer.domElement);
+    
+    const light = new THREE.PointLight(0xffffff, 1, 100);
+    light.position.set(0, 0, 1000);
+    scene.add(light);
 
     // Load the OBJ file for your 3D model
     const objLoader = new THREE.OBJLoader();
@@ -36,10 +40,6 @@
       // Set the camera position based on the model size
       camera.position.z = size * 1.5;
     });
-    
-      const light = new THREE.PointLight(0xffffff, 1, 100);
-      light.position.set(0, 0, 1000);
-      scene.add(light);
 
     // Set up the camera position and render the scene
     function animate() {

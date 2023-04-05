@@ -38,8 +38,8 @@ objLoader.load('jumbo2022.obj', function (object) {
 var animate = function () {
 	requestAnimationFrame(animate);
 
-	cube.rotation.x += 0.01;
-	cube.rotation.y += 0.01;
+	object.rotation.x += 0.01;
+	object.rotation.y += 0.01;
 
 	renderer.render(scene, camera);
 };

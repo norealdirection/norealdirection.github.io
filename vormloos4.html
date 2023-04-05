@@ -36,6 +36,10 @@
       // Set the camera position based on the model size
       camera.position.z = size * 1.5;
     });
+    
+      const light = new THREE.PointLight(0xffffff, 1, 100);
+      light.position.set(0, 0, 1000);
+      scene.add(light);
 
     // Set up the camera position and render the scene
     function animate() {

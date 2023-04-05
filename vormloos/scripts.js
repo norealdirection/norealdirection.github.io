@@ -30,8 +30,8 @@ var objLoader = new THREE.OBJLoader();
 objLoader.setPath('/vormloos/assets/');
 objLoader.load('jumbo2022.obj', function (object) {
 
-	scene.add(object);
 	object.position.y -= 60;
+	scene.add(object);
 
 });
 

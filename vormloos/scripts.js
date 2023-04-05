@@ -8,10 +8,10 @@ var renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
-var controls = new THREE.OrbitControls(camera, renderer.domElement);
-controls.enableDamping = true;
-controls.dampingFactor = 0.25;
-controls.enableZoom = true;
+//var controls = new THREE.OrbitControls(camera, renderer.domElement);
+//controls.enableDamping = true;
+//controls.dampingFactor = 0.25;
+//controls.enableZoom = true;
 
 var keyLight = new THREE.DirectionalLight(new THREE.Color('hsl(30, 100%, 75%)'), 1.0);
 keyLight.position.set(-100, 0, 100);
@@ -36,9 +36,18 @@ objLoader.load('jumbo2022.obj', function (object) {
 });
 
 var animate = function () {
-	requestAnimationFrame( animate );
-	controls.update();
+	requestAnimationFrame(animate);
+
+	cube.rotation.x += 0.01;
+	cube.rotation.y += 0.01;
+
 	renderer.render(scene, camera);
 };
+
+//var animate = function () {
+//	requestAnimationFrame( animate );
+//	controls.update();
+//	renderer.render(scene, camera);
+//};
 
 animate();

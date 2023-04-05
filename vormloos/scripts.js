@@ -34,8 +34,8 @@ scene.add(backLight);
 //    materials.preload();
 
 var objLoader = new THREE.OBJLoader();
-objLoader.setMaterials(materials);
-objLoader.setPath('/examples/3d-obj-loader/assets/');
+//objLoader.setMaterials(materials);
+objLoader.setPath('/vormloos/assets/');
 objLoader.load('jumbo2022.obj', function (object) {
 
 	scene.add(object);

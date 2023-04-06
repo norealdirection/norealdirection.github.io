@@ -13,18 +13,18 @@ document.body.appendChild( renderer.domElement );
 //controls.dampingFactor = 0.25;
 //controls.enableZoom = true;
 
-var keyLight = new THREE.DirectionalLight(new THREE.Color('hsl(30, 100%, 75%)'), 1.0);
-keyLight.position.set(-100, 0, 100);
+//var keyLight = new THREE.DirectionalLight(new THREE.Color('hsl(30, 100%, 75%)'), 1.0);
+//keyLight.position.set(-100, 0, 100);
 
-var fillLight = new THREE.DirectionalLight(new THREE.Color('hsl(240, 100%, 75%)'), 0.75);
-fillLight.position.set(100, 0, 100);
+//var fillLight = new THREE.DirectionalLight(new THREE.Color('hsl(240, 100%, 75%)'), 0.75);
+//fillLight.position.set(100, 0, 100);
 
-var backLight = new THREE.DirectionalLight(0xffffff, 1.0);
-backLight.position.set(100, 0, -100).normalize();
+//var backLight = new THREE.DirectionalLight(0xffffff, 1.0);
+//backLight.position.set(100, 0, -100).normalize();
 
-scene.add(keyLight);
-scene.add(fillLight);
-scene.add(backLight);
+//scene.add(keyLight);
+//scene.add(fillLight);
+//scene.add(backLight);
 
 var object;
 
@@ -39,7 +39,7 @@ objLoader.load('jumbo2022.obj', function (loadedObject) {
 	// Traverse the object hierarchy and apply a material to all Mesh objects
 	object.traverse(function (child) {
 		if (child instanceof THREE.Mesh) {
-			child.material = new THREE.MeshPhongMaterial({
+			child.material = new THREE.MeshBasicMaterial({
 				color: 0xfad201, // Set the color to yellow
 			});
 		}

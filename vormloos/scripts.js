@@ -31,10 +31,19 @@ var object;
 var objLoader = new THREE.OBJLoader();
 objLoader.setPath('/vormloos/assets/');
 objLoader.load('jumbo2022.obj', function (loadedObject) {
-
-	loadedObject.position.y -= 60;
+	
 	scene.add(loadedObject);
+	loadedObject.position.y -= 60;
 	object = loadedObject; // Assign the loaded object to the 'object' variable
+	
+	// Traverse the object hierarchy and apply a material to all Mesh objects
+	object.traverse(function (child) {
+		if (child instanceof THREE.Mesh) {
+			child.material = new THREE.MeshPhongMaterial({
+				color: 0xfad201, // Set the color to yellow
+			});
+		}
+	});
 
 });
 

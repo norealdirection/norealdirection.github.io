@@ -7,7 +7,7 @@ var camera = new THREE.OrthographicCamera(
           window.innerHeight / 2,
           window.innerHeight / -2,
           1,
-          1000
+          2000
         );
 
 camera.position.z = 1000;

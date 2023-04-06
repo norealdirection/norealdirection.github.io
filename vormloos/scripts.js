@@ -14,7 +14,7 @@ camera.position.z = 1000;
 
 var renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth, window.innerHeight );
-document.body.appendChild( renderer.domElement );
+document.getElementById("container").appendChild(renderer.domElement);
 
 //var controls = new THREE.OrbitControls(camera, renderer.domElement);
 //controls.enableDamping = true;

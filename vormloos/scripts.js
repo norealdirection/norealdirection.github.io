@@ -40,9 +40,10 @@ var objLoader = new THREE.OBJLoader();
 objLoader.setPath('/vormloos/assets/');
 objLoader.load('jumbo2022.obj', function (loadedObject) {
 	
-	scene.add(loadedObject);
-	loadedObject.position.y -= 60;
 	object = loadedObject; // Assign the loaded object to the 'object' variable
+	object.scale.y = 0.7071065624; // Scale the cube only in the z direction
+	scene.add(object);
+	//loadedObject.position.y -= 60;
 	
 	// Traverse the object hierarchy and apply a material to all Mesh objects
 	object.traverse(function (child) {

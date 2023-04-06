@@ -26,23 +26,30 @@ scene.add(keyLight);
 scene.add(fillLight);
 scene.add(backLight);
 
+var object;
+
 var objLoader = new THREE.OBJLoader();
 objLoader.setPath('/vormloos/assets/');
-objLoader.load('jumbo2022.obj', function (object) {
+objLoader.load('jumbo2022.obj', function (loadedObject) {
 
 	object.position.y -= 60;
 	scene.add(object);
+	object = loadedObject;
 
 });
 
+// Animate the loaded object
 var animate = function () {
-	requestAnimationFrame(animate);
+    requestAnimationFrame(animate);
 
-	object.rotation.x += 0.01;
-	object.rotation.y += 0.01;
-
-	renderer.render(scene, camera);
+    if (object) {
+        object.rotation.x += 0.01;
+        object.rotation.y += 0.01;
+        renderer.render(scene, camera);
+    }
 };
+
+animate();
 
 //var animate = function () {
 //	requestAnimationFrame( animate );

@@ -61,8 +61,8 @@ var animate = function () {
     requestAnimationFrame(animate);
 
     if (object) {
-        object.rotation.x += 0.01;
-        object.rotation.y += 0.01;
+        object.rotation.x += 0.05;
+        object.rotation.y += 0.02;
         renderer.render(scene, camera);
     }
 };

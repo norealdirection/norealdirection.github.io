@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Content is King"
-subtitle: "Koningsdag en de Rotterdamse kunst van stadsmarketing"
+subtitle: "Koningsdag in Rotterdam en de lokale kunst van stadsmarketing"
 categories: home blog
 image: images/posts/content-is-king/content-is-king.jpg
 tags:

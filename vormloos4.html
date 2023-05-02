@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Three.js OBJ Model</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+
+  <div id="canvas-container"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/loaders/OBJLoader.min.js"></script>
+
+  <script>
+    // Set up the scene, camera and renderer
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.getElementById('canvas-container').appendChild(renderer.domElement);
+    
+    const light = new THREE.PointLight(0xffffff, 1, 100);
+    light.position.set(0, 0, 1000);
+    scene.add(light);
+
+    // Load the OBJ file for your 3D model
+    const objLoader = new THREE.OBJLoader();
+    objLoader.load('https://norealdirection.github.io/Jumbo2022.obj', function(object) {
+      // Create a new material and set its color to yellow
+      const material = new THREE.MeshBasicMaterial({ color: 0xffff00 });
+      // Assign the material to the model
+      object.traverse(function(child) {
+        if (child instanceof THREE.Mesh) {
+          child.material = material;
+        }
+      });
+      // Add the model to the scene and calculate its dimensions
+      scene.add(object);
+      const box = new THREE.Box3().setFromObject(object);
+      const size = box.getSize(new THREE.Vector3()).length();
+      // Set the camera position based on the model size
+      camera.position.z = size * 1.5;
+    });
+
+    // Set up the camera position and render the scene
+    function animate() {
+      requestAnimationFrame(animate);
+      renderer.render(scene, camera);
+    }
+    animate();
+  </script>
+
+</body>
+</html>
